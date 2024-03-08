@@ -27,16 +27,6 @@ I bet there must be a less poetic explanation out there, maybe something related
   
 All I'm sure is there's no beef around here, so Horse Meat will have to do for me, at least for now.
 # Archived Comments
----
-title: 'Would you like some horse meat for dinner, Herr Junqueira?'
-date: 2009-03-16T15:12:00.000-07:00
-draft: false
-url: /2009/03/would-you-some-horse-meat-for-dinner.html
-tags: 
-- Zurich
-- google
-- Switzerland
----
 
 #### Ta virando praticamente um Anthony Bourdain!
 [Zaíra Bosco](https://www.blogger.com/profile/10916277250512977800 "noreply@blogger.com") - <time datetime="2009-03-17T12:09:00.000-07:00">Mar 2, 2009</time>
