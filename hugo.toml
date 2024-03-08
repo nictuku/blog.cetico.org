@@ -20,4 +20,6 @@ icon = "linkedin"
 url = "https://www.linkedin.com/in/yvesjunqueira/"
 
 
-
+[services]
+  [services.googleAnalytics]
+    ID = 'G-YHFCQF5CLD'
