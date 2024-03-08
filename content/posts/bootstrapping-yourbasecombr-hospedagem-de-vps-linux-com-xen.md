@@ -23,15 +23,6 @@ Com muito orgulho, anuncio o início das operações da [YourBase](http://www.yo
   
 Fiquem à vontade para espalhar a notícia :-)
 # Archived Comments
----
-title: 'Bootstrapping: YourBase.com.br - hospedagem de VPS Linux com Xen'
-date: 2007-07-12T14:11:00.000-07:00
-draft: false
-url: /2007/07/bootstrapping-yourbasecombr-hospedagem.html
-tags: 
-- yourbase
-- Ubuntu
----
 
 #### _Comment from [\_\_\_](http://_____.com)_
 [Yves Junqueira](https://www.blogger.com/profile/00104361785049371212 "noreply@blogger.com") - <time datetime="2007-07-14T00:21:00.000-07:00">Jul 6, 2007</time>

@@ -22,15 +22,6 @@ Algumas observações:
 (Oops, esqueci de fazer o bug report).  
 \- WEEEEEEEEEEEEEEE o mais legal é que veio com 12 adesivos do Ubuntu, muito legal pra colar em notebook.
 # Archived Comments
----
-title: 'CD do Dapper chegou'
-date: 2006-07-18T14:08:00.000-07:00
-draft: false
-url: /2006/07/cd-do-dapper-chegou.html
-tags: 
-- Ubuntu-BR
-- Ubuntu
----
 
 #### _Original comment from:_
 [Yves Junqueira](https://www.blogger.com/profile/00104361785049371212 "noreply@blogger.com") - <time datetime="2006-07-18T17:36:00.000-07:00">Jul 3, 2006</time>

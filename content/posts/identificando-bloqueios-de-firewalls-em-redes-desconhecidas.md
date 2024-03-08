@@ -86,18 +86,6 @@ Outras referências:
   
 *   [TCP/IP Illustrated, Volume 1: The Protocols](http://www.librarything.com/work/13011&book=20479144)
 # Archived Comments
----
-title: 'Identificando bloqueios de firewalls em redes desconhecidas'
-date: 2007-08-30T17:26:00.000-07:00
-draft: false
-url: /2007/08/identificando-bloqueios-de-firewalls-em.html
-tags: 
-- Tech Tip
-- yourbase
-- Ubuntu
-- artigo
-- Tech
----
 
 #### _Comment from_
 [Yves Junqueira](https://www.blogger.com/profile/00104361785049371212 "noreply@blogger.com") - <time datetime="2007-08-31T01:59:00.000-07:00">Aug 5, 2007</time>

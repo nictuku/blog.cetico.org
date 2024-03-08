@@ -29,14 +29,6 @@ Assim que eu der uma "limpada" no código do PF-Graph, o mesmo será disponibili
   
 Até mais!
 # Archived Comments
----
-title: 'PF-Graph - Solução para análise de logs do Postfix'
-date: 2005-06-07T04:40:00.000-07:00
-draft: false
-url: /2005/06/pf-graph-soluo-para-anlise-de-logs-do.html
-tags: 
-- Tech Tip
----
 
 #### _Original comment from: Sérgio M. F. Caldeira_
 [Yves Junqueira](https://www.blogger.com/profile/00104361785049371212 "noreply@blogger.com") - <time datetime="2005-06-07T10:29:00.000-07:00">Jun 2, 2005</time>

@@ -121,19 +121,6 @@ Salve o arquivo e vá até a página onde deve estar seu openid. Já deve estar 
   
 Lembre-se de ser gentil com quem acessa seu blog, permitindo que eles façam comentários autenticando-se com suas respectivas OpenIDs. [Fazer isso no Wordpress é fácil](http://wordpress.org/extend/plugins/openid/) e certamente outros sistemas já devem estar se adaptando aos novos tempos.
 # Archived Comments
----
-title: 'Hospede seu proprio servidor de OpenID. Leva so uns 3 minutos :-)'
-date: 2008-01-21T14:13:00.000-08:00
-draft: false
-url: /2008/01/hospede-seu-proprio-servidor-de-openid.html
-tags: 
-- Tech Tip
-- yourbase
-- iniciantes
-- Ubuntu
-- openid
-- sysadmin
----
 
 #### _Comment from[](http://gutocarvalho.net)_
 [Yves Junqueira](https://www.blogger.com/profile/00104361785049371212 "noreply@blogger.com") - <time datetime="2008-01-22T05:52:00.000-08:00">Jan 2, 2008</time>

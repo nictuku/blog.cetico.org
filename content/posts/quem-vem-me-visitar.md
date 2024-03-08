@@ -35,16 +35,6 @@ Apesar de não poder fazer isso, sou totalmente favorável a bebespedir dos amig
   
 UPDATE: [Carla tomou coragem e fez um anúncio público](http://whodsay.blogspot.com/2008/10/e-l-vamos-ns-parte-ii.html) também. Publicou até um FAQ sobre a decisão :-).
 # Archived Comments
----
-title: 'Quem vem me visitar?'
-date: 2008-10-16T12:31:00.000-07:00
-draft: false
-url: /2008/10/quem-vem-me-visitar.html
-tags: 
-- Zurich
-- google
-- Pessoal
----
 
 #### Tamo te esperando em Brasilia! =)
 [Marcelo Lemos](https://www.blogger.com/profile/09826675254975780722 "noreply@blogger.com") - <time datetime="2008-10-22T04:56:00.000-07:00">Oct 3, 2008</time>

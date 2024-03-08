@@ -18,12 +18,6 @@ A viagem é braba. Saio de casa às 8 da manhã de segunda-feira e chego lá na 
   
 Não vou conseguir fazer mega-posts ultra interessantes como os do [Marcelo](http://marcelolemos.blogspot.com/), mas vou tentar pelo menos mandar umas fotinhas. Me aguardem!
 # Archived Comments
----
-title: 'Austrália me roubará um dia, amanhã.'
-date: 2008-08-24T17:19:00.000-07:00
-draft: false
-url: /2008/08/austrlia-me-roubar-um-dia-amanh.html
----
 
 #### Ah, boa viagem! :D
 [Cesar Cardoso](https://www.blogger.com/profile/18013051280920058606 "noreply@blogger.com") - <time datetime="2008-08-24T20:24:00.000-07:00">Aug 1, 2008</time>

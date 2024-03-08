@@ -27,14 +27,6 @@ Veja algumas fotos abaixo, pra não pensarem que estou exagerando (cópia autori
   
 [Mais fotos desse paraíso](http://flickr.com/search/?q=milford+track&s=int).
 # Archived Comments
----
-title: 'A caminhada perfeita'
-date: 2009-01-18T06:00:00.000-08:00
-draft: false
-url: /2009/01/caminhada-perfeita.html
-tags: 
-- viagens
----
 
 #### Hey, não sabia que você curtia essas coisas. O Mil...
 [Daniel-san](https://www.blogger.com/profile/17460580926391155192 "noreply@blogger.com") - <time datetime="2009-01-19T10:44:00.000-08:00">Jan 1, 2009</time>

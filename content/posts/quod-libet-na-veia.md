@@ -55,14 +55,6 @@ sudo apt-get remove kdelibs-bin # (observação: Isso removerá seu KDE. O que �
   
 \[\[End Of World\]\]
 # Archived Comments
----
-title: 'Quod Libet na veia'
-date: 2006-02-28T13:21:00.000-08:00
-draft: false
-url: /2006/02/quod-libet-na-veia.html
-tags: 
-- Ubuntu
----
 
 #### _Original comment from:_
 [Yves Junqueira](https://www.blogger.com/profile/00104361785049371212 "noreply@blogger.com") - <time datetime="2006-02-28T14:20:00.000-08:00">Feb 2, 2006</time>

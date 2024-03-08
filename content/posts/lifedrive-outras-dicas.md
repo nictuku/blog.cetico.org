@@ -26,15 +26,6 @@ Mas é altamente geeky.
   
 \[1\] O livro vem com um CD que traz todo o conteúdo do livro em PDF. Usei o pdftohtml (tem até pra Windows, procure por pdftohtml.exe) para converter, ahm, o PDF para HTML, e depois o Plucker Desktop, pra converter tudo pro formato do Plucker. Ah, ainda estou preso ao Plucker Desktop do Windows.
 # Archived Comments
----
-title: 'LifeDrive - outras dicas'
-date: 2007-01-03T14:23:00.000-08:00
-draft: false
-url: /2007/01/lifedrive-outras-dicas.html
-tags: 
-- lifedrive
-- Pessoal
----
 
 #### _Original comment from: vrkiller_ melhor l...
 [Yves Junqueira](https://www.blogger.com/profile/00104361785049371212 "noreply@blogger.com") - <time datetime="2007-01-05T15:27:00.000-08:00">Jan 5, 2007</time>

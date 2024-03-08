@@ -42,14 +42,6 @@ Depois é só seguir os passos descritos em /usr/share/doc/request-tracker3.6/RE
   
 \[\]s
 # Archived Comments
----
-title: 'Request Tracker no Debian Etch'
-date: 2007-04-08T09:56:00.000-07:00
-draft: false
-url: /2007/04/request-tracker-no-debian-etch.html
-tags: 
-- Tech Tip
----
 
 #### _Comment from Luciano:_ os pacote rt3.6-ap...
 [Yves Junqueira](https://www.blogger.com/profile/00104361785049371212 "noreply@blogger.com") - <time datetime="2007-09-17T04:59:00.000-07:00">Sep 1, 2007</time>

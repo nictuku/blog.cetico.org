@@ -24,16 +24,6 @@ Tenho esperança que esse software não irá substituir o NWU inteiramente, port
   
 Esse comportamento pode não quebrar as políticas de "ser sempre livre" ou "nunca ter licenças restritivas associadas ao Ubuntu", mas torna menos atraente para a comunidade contribuir com o Ubuntu, disso estou certo.
 # Archived Comments
----
-title: 'Ubuntu Landscape anunciado - de certa forma'
-date: 2006-05-28T17:44:00.000-07:00
-draft: false
-url: /2006/05/ubuntu-landscape-anunciado-de-certa.html
-tags: 
-- Debian
-- Ubuntu
-- Nwu
----
 
 #### _Original comment from:_
 [Yves Junqueira](https://www.blogger.com/profile/00104361785049371212 "noreply@blogger.com") - <time datetime="2006-05-31T16:45:00.000-07:00">Jun 4, 2006</time>

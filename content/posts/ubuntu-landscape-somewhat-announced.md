@@ -25,16 +25,6 @@ I do think they should have mentioned it, though - maybe in the [NetworkWideUpda
   
 This behaviour may not break the "never ask for a fee" and "totally free environment" policies, but makes it less attractive for the community to contribute to Ubuntu. Project contributors don't get this kind of surprises with Debian, for example.
 # Archived Comments
----
-title: 'Ubuntu Landscape somewhat announced'
-date: 2006-05-28T17:11:00.000-07:00
-draft: false
-url: /2006/05/ubuntu-landscape-somewhat-announced.html
-tags: 
-- Debian
-- Ubuntu-EN
-- Nwu
----
 
 #### _Original comment from:_
 [Yves Junqueira](https://www.blogger.com/profile/00104361785049371212 "noreply@blogger.com") - <time datetime="2007-07-30T08:12:00.000-07:00">Jul 1, 2007</time>

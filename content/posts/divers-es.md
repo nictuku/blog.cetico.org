@@ -45,17 +45,6 @@ Em Paris tava frio pra burro, aliás - muito pior que aqui.
 
 Até.
 # Archived Comments
----
-title: 'Diversões'
-date: 2010-03-26T18:25:00.000-07:00
-draft: false
-url: /2010/03/diversoes.html
-tags: 
-- paris
-- Zurich
-- Switzerland
-- Pessoal
----
 
 #### O vento faz a curva lá nessa pracinha né? Ei, fal...
 [Unknown](https://www.blogger.com/profile/07808156823457361025 "noreply@blogger.com") - <time datetime="2010-03-27T11:13:50.165-07:00">Mar 6, 2010</time>

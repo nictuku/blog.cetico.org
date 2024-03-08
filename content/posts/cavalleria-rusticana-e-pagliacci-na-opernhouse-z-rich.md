@@ -32,15 +32,6 @@ Quero assistir um monte de outras depois dessa.
   
 Última coisa. Ainda que o tenor fosse muito bom, compará-lo com o Pavarotti cantando a mesma ária é scanagem. Pavarotti tem MUITO moral.
 # Archived Comments
----
-title: 'Cavalleria Rusticana e Pagliacci na Opernhouse Zürich'
-date: 2009-07-03T15:02:00.000-07:00
-draft: false
-url: /2009/07/cavalleria-rusticana-e-pagliacci-na.html
-tags: 
-- Zurich
-- Opera
----
 
 #### Colé mano chorando com operazinha é ? Pede pra sa...
 [Gabriel](https://www.blogger.com/profile/11015933148467263936 "noreply@blogger.com") - <time datetime="2009-07-05T20:55:11.979-07:00">Jul 1, 2009</time>

@@ -15,14 +15,6 @@ A cada clique na web, pelo menos uma encarnação de IP, [TCP](http://www.cisco.
   
 Na próxima vez que clicar num link, darei mais valor à Internet. Abrirei o wireshark e darei total atenção aos pobre pacotinhos, tão solícitos e tão efêmeros. Serão salvos da extinção pelo tcpdump. Salvem o [Peter Packet](http://www.jengajam.com/r/Cisco-Packet)!
 # Archived Comments
----
-title: 'Peter Packet e o oblivion'
-date: 2007-04-14T07:28:00.000-07:00
-draft: false
-url: /2007/04/peter-packet-e-o-oblivion.html
-tags: 
-- Pessoal
----
 
 #### _Comment from_
 [Yves Junqueira](https://www.blogger.com/profile/00104361785049371212 "noreply@blogger.com") - <time datetime="2007-04-14T12:32:00.000-07:00">Apr 6, 2007</time>

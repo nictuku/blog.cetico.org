@@ -33,15 +33,6 @@ Acho uma pena que o Google Talk seja bloqueado, pois é um serviço muito bacana
   
 Espero que tenha sido útil.
 # Archived Comments
----
-title: 'Como bloquear em seu proxy o acesso ao Google Talk interno do Gmail'
-date: 2006-02-13T07:23:00.000-08:00
-draft: false
-url: /2006/02/como-bloquear-em-seu-proxy-o-acesso-ao.html
-tags: 
-- Tech Tip
-- Ubuntu
----
 
 #### _Original comment from:_
 [Yves Junqueira](https://www.blogger.com/profile/00104361785049371212 "noreply@blogger.com") - <time datetime="2006-02-13T07:38:00.000-08:00">Feb 1, 2006</time>

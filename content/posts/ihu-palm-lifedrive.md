@@ -90,15 +90,6 @@ Agora as coisas mais legais:
 
 Vou esperar sair a nova versão do PalmOS, e torcer pra ser a [versão em Linux (ALP) sendo desenvolvido](http://www.access-company.com/products/linux/alp.html) pela Palm Source, porque todos dizem que o PalmOS ficou pra trás, se comparado ao Windows Mobile. Linux com GTK, eu quero.
 # Archived Comments
----
-title: 'IHU! Palm LifeDrive'
-date: 2006-11-11T14:18:00.000-08:00
-draft: false
-url: /2006/11/ihu-palm-lifedrive.html
-tags: 
-- lifedrive
-- Pessoal
----
 
 #### _Original comment from:_
 [Yves Junqueira](https://www.blogger.com/profile/00104361785049371212 "noreply@blogger.com") - <time datetime="2006-11-12T09:01:00.000-08:00">Nov 0, 2006</time>

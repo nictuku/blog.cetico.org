@@ -22,15 +22,6 @@ UPDATE. Ó, fotinhas - enviadas com o [jUploadr](http://juploadr.org/). Veja tod
   
 [![palmld-linux-opie](http://farm2.static.flickr.com/1109/1034204211_c6ec2f48fc_m.jpg)](http://www.flickr.com/photos/93543981@N00/1034204211/ "Photo Sharing")
 # Archived Comments
----
-title: 'Linux no Palm LifeDrive: realmente ja funciona'
-date: 2007-08-04T18:49:00.000-07:00
-draft: false
-url: /2007/08/linux-no-palm-lifedrive-realmente-ja.html
-tags: 
-- lifedrive
-- Ubuntu
----
 
 #### _Comment from_
 [Yves Junqueira](https://www.blogger.com/profile/00104361785049371212 "noreply@blogger.com") - <time datetime="2007-08-05T14:12:00.000-07:00">Aug 0, 2007</time>

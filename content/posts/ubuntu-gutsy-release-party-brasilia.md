@@ -25,19 +25,6 @@ Espero que seja legal como foi a nossa [Dapper Party](http://cetico.org/tech/200
   
 Veja no wiki do Ubuntu que [ocorrerão outras festas de lançamento do Gutsy ao redor do mundo](https://wiki.ubuntu.com/GutsyReleaseParties).
 # Archived Comments
----
-title: 'Ubuntu Gutsy Release Party - Brasilia'
-date: 2007-10-18T06:44:00.000-07:00
-draft: false
-url: /2007/10/ubuntu-gutsy-release-party-brasilia.html
-tags: 
-- release party
-- Ubuntu-BR
-- brasilia
-- Ubuntu
-- gutsy gibbon
-- ubuntu-df
----
 
 #### _Comment from_
 [Yves Junqueira](https://www.blogger.com/profile/00104361785049371212 "noreply@blogger.com") - <time datetime="2007-10-18T07:17:00.000-07:00">Oct 4, 2007</time>

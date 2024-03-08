@@ -32,17 +32,6 @@ Tem um bando de tecnologias meia-boca por aí que tentam ajudar, mas o mundo tá
   
 5) Onde as pessoas costumam marretar livros em redes P2P hoje em dia? [Emule](http://www.emule-project.net) mesmo? Ando meio por fora.
 # Archived Comments
----
-title: 'Que mundo atrasado. Cadê os livros?'
-date: 2008-10-04T23:13:00.000-07:00
-draft: false
-url: /2008/10/que-mundo-atrasado-cad-os-livros.html
-tags: 
-- ciência da computação
-- amazon
-- Cultura
-- google
----
 
 #### Pensei na falta de e-book readers outro dia. Esse ...
 [Daniel-san](https://www.blogger.com/profile/17460580926391155192 "noreply@blogger.com") - <time datetime="2008-10-05T01:28:00.000-07:00">Oct 0, 2008</time>

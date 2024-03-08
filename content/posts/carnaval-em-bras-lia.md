@@ -18,14 +18,6 @@ Arte e cultura não deveriam ser diretamente patrocinadas pelo Estado, é o que 
   
 Aproveitando o assunto cultura, Apocalypto parece interessante, mas [nem todo mundo gostou](http://divirta-se.correioweb.com.br/ultimas.htm?ultima=2697373). Ah, [Transformers](http://imdb.com/title/tt0418279/), LOL!
 # Archived Comments
----
-title: 'Carnaval em Brasília'
-date: 2007-01-27T11:20:00.000-08:00
-draft: false
-url: /2007/01/carnaval-em-braslia.html
-tags: 
-- Pessoal
----
 
 #### _Original comment from:_
 [Yves Junqueira](https://www.blogger.com/profile/00104361785049371212 "noreply@blogger.com") - <time datetime="2007-01-27T12:37:00.000-08:00">Jan 6, 2007</time>

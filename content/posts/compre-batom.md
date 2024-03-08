@@ -18,12 +18,6 @@ Depois comprem isso quando lançar no Brasil: [Google Nexus One](http://googlebl
   
 É o fone para geeks mais foda do universo.
 # Archived Comments
----
-title: 'Compre batom'
-date: 2010-01-05T11:41:00.000-08:00
-draft: false
-url: /2010/01/compre-batom.html
----
 
 #### Sabendo-se que até agora o Google Checkout não vei...
 [Cesar Cardoso](https://www.blogger.com/profile/18013051280920058606 "noreply@blogger.com") - <time datetime="2010-01-05T11:55:37.996-08:00">Jan 2, 2010</time>

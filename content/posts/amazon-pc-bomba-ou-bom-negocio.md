@@ -26,14 +26,6 @@ Update:
   
 \- Comprei um HP DV2140. Veja aqui [porquê](http://cetico.org/tech/2007/04/fnac-que-bagunca.html).
 # Archived Comments
----
-title: 'Amazon PC: bomba ou bom negocio?'
-date: 2007-04-23T14:47:00.000-07:00
-draft: false
-url: /2007/04/amazon-pc-bomba-ou-bom-negocio.html
-tags: 
-- Pessoal
----
 
 #### _Comment from_
 [Yves Junqueira](https://www.blogger.com/profile/00104361785049371212 "noreply@blogger.com") - <time datetime="2007-04-23T14:53:00.000-07:00">Apr 1, 2007</time>

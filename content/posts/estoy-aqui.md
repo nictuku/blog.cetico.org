@@ -25,16 +25,6 @@ Mais fotos no meu [álbum sobre Zurich](http://flickr.com/photos/93543981@N00/se
   
 Quando conseguirmos alugar um apartamento eu aviso vocês.
 # Archived Comments
----
-title: 'Estoy aqui'
-date: 2009-02-18T11:42:00.001-08:00
-draft: false
-url: /2009/02/estoy-aqui.html
-tags: 
-- Zurich
-- belo horizonte
-- Pessoal
----
 
 #### Rapaz, esse ai é um corgão!  
 Mas o que eu atrave...

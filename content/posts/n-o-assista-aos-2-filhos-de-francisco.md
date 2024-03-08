@@ -21,14 +21,6 @@ Só pra citar umas coisas positivas no filme, achei os meninos bem talentosos e 
   
 Mas coitado de quem pensar que esse filme tenha chance de aparecer na lista dos concorrentes ao Oscar.
 # Archived Comments
----
-title: 'Não assista aos 2 filhos de francisco.'
-date: 2005-10-18T16:52:00.000-07:00
-draft: false
-url: /2005/10/no-assista-aos-2-filhos-de-francisco.html
-tags: 
-- Cultura
----
 
 #### _Original comment from: Sammy_ Olá.. estav...
 [Yves Junqueira](https://www.blogger.com/profile/00104361785049371212 "noreply@blogger.com") - <time datetime="2005-10-26T04:53:00.000-07:00">Oct 3, 2005</time>

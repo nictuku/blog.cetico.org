@@ -19,16 +19,6 @@ Pena que deixei de ganhar alguns trocados com esse aumento de tráfego, visto qu
   
 A partir de agora eu vou tentar ser menos chato, só reclamar do que **realmente** merece - como [A volta do todo poderoso](http://cetico.org/tech/2007/07/a-volta-do-todo-poderoso-e-uma-tristeza.html) e tentar publicar algum conteúdo útil. Do contrário não vou pro [Céu](http://www.splange.freeserve.co.uk/misc/vi.html).
 # Archived Comments
----
-title: 'o chato de plantao'
-date: 2007-07-30T19:41:00.000-07:00
-draft: false
-url: /2007/07/o-chato-de-plantao.html
-tags: 
-- Ceticismo
-- Cultura
-- Pessoal
----
 
 #### _Comment from_
 [Yves Junqueira](https://www.blogger.com/profile/00104361785049371212 "noreply@blogger.com") - <time datetime="2007-07-31T03:14:00.000-07:00">Jul 2, 2007</time>

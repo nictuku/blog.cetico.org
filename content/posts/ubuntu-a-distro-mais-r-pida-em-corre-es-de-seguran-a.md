@@ -35,16 +35,6 @@ Dessa forma, distribuições como SuSE e Trustix ficaram mal colocados, possivel
   
 A má performance do Slackware e do OpenBSD também devem ser melhor explicados. Há pelo menos duas possibilidades: a) as atualizações são cuidadosamente auditadas e testadas antes de serem disponibilizadas, mais do que nos demais; b) a estrutura desses projetos não facilitam, ou não priorizam, a velocidade no lançamento das correções dos bugs de segurança. Talvez quem conheça melhor esses projetos possa explicar isso direito, mas não é o meu caso.
 # Archived Comments
----
-title: 'Ubuntu é a distro mais rápida em correções de segurança'
-date: 2006-07-28T19:09:00.000-07:00
-draft: false
-url: /2006/07/ubuntu-distro-mais-rpida-em-correes-de.html
-tags: 
-- Debian
-- Ubuntu-BR
-- Ubuntu
----
 
 #### _Original comment from:_
 [Yves Junqueira](https://www.blogger.com/profile/00104361785049371212 "noreply@blogger.com") - <time datetime="2006-07-30T04:39:00.000-07:00">Jul 0, 2006</time>

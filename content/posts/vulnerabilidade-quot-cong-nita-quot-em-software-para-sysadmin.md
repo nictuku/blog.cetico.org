@@ -32,14 +32,6 @@ Minha estratégia para tentar garantir um nível razoável de segurança passa p
   
 Não tenho dúvida que fazer software seguro exige muito esforço e, tcha-na-nãs, tempo livre. Afinal de contas, só consideram questões de segurança quando não há prazo a ser cumprido :-).
 # Archived Comments
----
-title: 'Vulnerabilidade &quot;congênita&quot; em software para sysadmin'
-date: 2006-02-21T17:44:00.000-08:00
-draft: false
-url: /2006/02/vulnerabilidade-em-software-para.html
-tags: 
-- Ubuntu
----
 
 #### _Original comment from:_
 [Yves Junqueira](https://www.blogger.com/profile/00104361785049371212 "noreply@blogger.com") - <time datetime="2006-02-22T15:11:00.000-08:00">Feb 3, 2006</time>

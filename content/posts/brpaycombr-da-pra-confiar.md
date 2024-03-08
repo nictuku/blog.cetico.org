@@ -53,14 +53,6 @@ Fico surpreso com tanta demora em resolver essa falha. Pra piorar, as alternativ
   
 **UPDATE** 2:   Tentei a F2B. Não gostei. Pude ver que a BRPay é bem mais interessante e simples. E tem funcionado muito bem - com exceção da cobrança recorrente.
 # Archived Comments
----
-title: 'brpay.com.br: da pra confiar?'
-date: 2007-06-22T21:04:00.000-07:00
-draft: false
-url: /2007/06/brpaycombr-da-pra-confiar.html
-tags: 
-- Pessoal
----
 
 #### _Comment from [We...](http://ourosites.com)_
 [Yves Junqueira](https://www.blogger.com/profile/00104361785049371212 "noreply@blogger.com") - <time datetime="2007-08-11T03:06:00.000-07:00">Aug 6, 2007</time>

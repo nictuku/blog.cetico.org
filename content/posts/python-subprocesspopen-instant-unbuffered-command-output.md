@@ -32,14 +32,6 @@ Now go ahead and type in another terminal: echo PRINTME >> /tmp/wee
   
 And then go weeee!
 # Archived Comments
----
-title: 'python subprocess.Popen - instant (unbuffered) command output'
-date: 2007-02-22T17:26:00.000-08:00
-draft: false
-url: /2007/02/python-subprocesspopen-instant.html
-tags: 
-- Tech Tip
----
 
 #### _Comment from [...](http://cetico.org/tech)_
 [Yves Junqueira](https://www.blogger.com/profile/00104361785049371212 "noreply@blogger.com") - <time datetime="2007-03-25T19:07:00.000-07:00">Mar 1, 2007</time>

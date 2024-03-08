@@ -31,15 +31,6 @@ Nada paga o preço de poder levar o LD pra cama e ficar lendo meus e-mails e out
   
 **UPDATE:** o crash do Blazer tem sido causado pelo uso do Graffiti 1. Voltei pro Graffiti 2 (basta apagar o Graffiti Library dos "Programs") e parou o problema.
 # Archived Comments
----
-title: 'Gmail App no Palm Lifedrive'
-date: 2006-11-24T15:58:00.000-08:00
-draft: false
-url: /2006/11/gmail-app-no-palm-lifedrive.html
-tags: 
-- lifedrive
-- Pessoal
----
 
 #### _Original comment from: Ricardo_ Olá, Est...
 [Yves Junqueira](https://www.blogger.com/profile/00104361785049371212 "noreply@blogger.com") - <time datetime="2008-06-10T12:38:00.000-07:00">Jun 2, 2008</time>

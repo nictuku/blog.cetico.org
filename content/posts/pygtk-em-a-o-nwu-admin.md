@@ -21,14 +21,6 @@ Atualmente ele pega os dados direto do banco de dados usando sqlobject, mas a in
 [](http://www.cetico.org/tech/wp-content/uploads/2006/03/Screenshot-Nwu%20Admin.png "Primeira screenshot - Nwu Admin")[  
 ](http://www.cetico.org/tech/wp-content/uploads/2006/03/Screenshot-Nwu%20Admin.png "Primeira screenshot - Nwu Admin")
 # Archived Comments
----
-title: 'PyGTK em ação: nwu admin'
-date: 2006-03-12T04:43:00.000-08:00
-draft: false
-url: /2006/03/pygtk-em-ao-nwu-admin.html
-tags: 
-- Ubuntu
----
 
 #### _Original comment from:_
 [Yves Junqueira](https://www.blogger.com/profile/00104361785049371212 "noreply@blogger.com") - <time datetime="2006-03-13T05:55:00.000-08:00">Mar 1, 2006</time>

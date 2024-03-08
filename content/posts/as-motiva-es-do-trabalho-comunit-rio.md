@@ -33,14 +33,6 @@ E não nos preocupemos com os caronas. Seremos felizes, nós e eles. Acho que os
   
 No futuro distante, com todo software de que precisamos já tendo sido escrito e compartilhado, nossa comunidade vai gozar do ócio criativo.
 # Archived Comments
----
-title: 'As motivações do trabalho comunitário'
-date: 2006-10-16T19:55:00.000-07:00
-draft: false
-url: /2006/10/as-motivaes-do-trabalho-comunitrio.html
-tags: 
-- Ubuntu
----
 
 #### _Original comment from: GDA_ \*\*Excelente!!...
 [Yves Junqueira](https://www.blogger.com/profile/00104361785049371212 "noreply@blogger.com") - <time datetime="2006-10-17T00:46:00.000-07:00">Oct 2, 2006</time>

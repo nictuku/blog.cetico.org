@@ -18,14 +18,6 @@ A novidade do dia é que recebi um convite do Google para hospedar os e-mails do
   
 Não sei se o serviço continuará a ser gratuito, mas pelo modelo de negócios do Google, tudo indica que sim. Os adwords continuam lá, mas não incomodam. É duca.
 # Archived Comments
----
-title: 'Tempo de hackozar'
-date: 2006-05-08T15:32:00.000-07:00
-draft: false
-url: /2006/05/tempo-de-hackozar.html
-tags: 
-- Pessoal
----
 
 #### _Original comment from:_
 [Yves Junqueira](https://www.blogger.com/profile/00104361785049371212 "noreply@blogger.com") - <time datetime="2006-05-17T19:17:00.000-07:00">May 4, 2006</time>

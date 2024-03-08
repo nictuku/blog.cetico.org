@@ -12,15 +12,6 @@ Yeah, trampo novo! Em breve me mudo pra BH, pra trampar com sysadmin no Google, 
   
 Ainda não sei exatamente o que fazer com meus projetos projetos (incluindo NWU e YourBase, entre outros), mas vai tudo certo, certo?
 # Archived Comments
----
-title: 'Gooooooooooooooooooooooogle!'
-date: 2008-01-10T08:46:00.001-08:00
-draft: false
-url: /2008/01/gooooooooooooooooooooooogle_10.html
-tags: 
-- Projetos
-- Pessoal
----
 
 #### _Comment from_
 [Yves Junqueira](https://www.blogger.com/profile/00104361785049371212 "noreply@blogger.com") - <time datetime="2008-01-10T11:53:00.000-08:00">Jan 4, 2008</time>

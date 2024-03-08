@@ -50,15 +50,6 @@ UPDATE: Não sei pra que me dei o trabalho de escrever essa merda. Olha a respos
 >   
 > André
 # Archived Comments
----
-title: 'Reposta a um post bizonho do Ceticismo.net'
-date: 2010-05-07T16:54:00.000-07:00
-draft: false
-url: /2010/05/reposta-um-post-bizonho-do-ceticismonet.html
-tags: 
-- Ceticismo
-- preconceito
----
 
 #### O mais curioso é que cético é diferente de ateu, e...
 [Chantinon](https://www.blogger.com/profile/07363964303772246730 "noreply@blogger.com") - <time datetime="2010-05-28T08:58:34.805-07:00">May 5, 2010</time>

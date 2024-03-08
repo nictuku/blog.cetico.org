@@ -40,14 +40,6 @@ Shouldn't MS improve the security for TS Licensing in the next versions of Windo
   
 PS> I am definitely against software piracy. I strongly believe that Microsoft should strength their anti-piracy policy. Only then they could theoretically lower their licensing prices. The biggest result, though, would be a huge increase of free software popularity. Only then we, FOSS proponents, would have the opportunity to prove our paradigm is superior (now I'm being hypocrite, I guess).
 # Archived Comments
----
-title: 'How to bypass Windows Terminal Services 3 month trial'
-date: 2005-06-06T19:18:00.000-07:00
-draft: false
-url: /2005/06/how-to-bypass-windows-terminal-services.html
-tags: 
-- Ubuntu
----
 
 #### _Original comment from: Anonymous_ "By the...
 [Yves Junqueira](https://www.blogger.com/profile/00104361785049371212 "noreply@blogger.com") - <time datetime="2005-07-26T16:58:00.000-07:00">Jul 3, 2005</time>

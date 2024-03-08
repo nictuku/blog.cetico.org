@@ -29,14 +29,6 @@ Há pontos positivos e negativos:
   
 Não está totalmente claro se iremos perder dinheiro ou não, pois não sei o quanto será pago de impostos nessa transferência eletrônica, mas gostei da notícia. Parabéns ao Google. Transferência eletrônica combina, sim, com o século XXI.
 # Archived Comments
----
-title: 'Google Adsense ira pagar por transferencia eletronica'
-date: 2007-01-30T00:00:00.000-08:00
-draft: false
-url: /2007/01/google-adsense-ira-pagar-por.html
-tags: 
-- Pessoal
----
 
 #### _Comment from_
 [Yves Junqueira](https://www.blogger.com/profile/00104361785049371212 "noreply@blogger.com") - <time datetime="2007-01-30T02:28:00.000-08:00">Jan 2, 2007</time>

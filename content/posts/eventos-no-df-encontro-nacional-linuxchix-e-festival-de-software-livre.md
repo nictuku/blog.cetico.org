@@ -29,16 +29,6 @@ Louis Suarez-Potts do OpenOffice.org e o Jon 'Maddog' Hall confirmaram presença
   
 Marquem na agenda.
 # Archived Comments
----
-title: 'Eventos no DF - Encontro Nacional LinuxChix e Festival de Software Livre'
-date: 2007-07-26T07:14:00.000-07:00
-draft: false
-url: /2007/07/eventos-no-df-encontro-nacional.html
-tags: 
-- Ubuntu
-- Tech
-- Pessoal
----
 
 #### _Comment from_
 [Yves Junqueira](https://www.blogger.com/profile/00104361785049371212 "noreply@blogger.com") - <time datetime="2007-07-26T10:29:00.000-07:00">Jul 4, 2007</time>

@@ -43,14 +43,6 @@ O Ubuntu Server é minha esperança de um "Debian Enterprise". Não acredito nas
   
 Eu tenho a impressão que é um projeto pessoal de como ganhar mais dinheiro e se divertir ao mesmo tempo :-).
 # Archived Comments
----
-title: 'Grandes expectativas com o Ubuntu Dapper Server'
-date: 2006-04-02T11:57:00.000-07:00
-draft: false
-url: /2006/04/grandes-expectativas-com-o-ubuntu.html
-tags: 
-- Ubuntu
----
 
 #### _Original comment from:_
 [Yves Junqueira](https://www.blogger.com/profile/00104361785049371212 "noreply@blogger.com") - <time datetime="2006-04-03T15:38:00.000-07:00">Apr 1, 2006</time>

@@ -18,15 +18,6 @@ E, mais uma vez, morro de vergonha de ver o tanto de garranchos pytônicos que e
   
 Isso foi um mero dump de código que (realmente) não vai ser útil pra ninguém, mas quem sabe no futuro vou ter tempo de tornar o software mais genérico, e usá-lo como base (de código livre) para um outro serviço gratuito de hospedagem de DNS, visto que a YB já era.
 # Archived Comments
----
-title: 'dump de código'
-date: 2008-11-23T18:57:00.000-08:00
-draft: false
-url: /2008/11/dump-de-cdigo.html
-tags: 
-- yourbase
-- python
----
 
 #### ou cade as fotos rapá !  
   

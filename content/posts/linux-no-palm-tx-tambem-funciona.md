@@ -50,14 +50,6 @@ Mas sinceramente eu torço pra que o ACCESS Linux Platform - se é que isso é o
   
 UPDATE: O JAlexandre relata que [Linux também roda no Palm Zire 72](http://www.midstorm.org/~jalexandre/blog/2007/03/21/palm-zire-72-rodando-linux-parte-1/).
 # Archived Comments
----
-title: 'Linux no Palm TX tambem funciona'
-date: 2007-08-21T07:10:00.000-07:00
-draft: false
-url: /2007/08/linux-no-palm-tx-tambem-funciona.html
-tags: 
-- Pessoal
----
 
 #### _Comment from_
 [Yves Junqueira](https://www.blogger.com/profile/00104361785049371212 "noreply@blogger.com") - <time datetime="2007-08-23T18:09:00.000-07:00">Aug 5, 2007</time>

@@ -19,14 +19,6 @@ Moral da história: se puderem, evitem a FNAC.com.br.
   
 \[1\] Enviei esse relato à FNAC para que, caso entendam como erro, possam corrigir.
 # Archived Comments
----
-title: 'FNAC, que bagunca!'
-date: 2007-04-27T16:25:00.000-07:00
-draft: false
-url: /2007/04/fnac-que-bagunca.html
-tags: 
-- Pessoal
----
 
 #### _Comment from[](http://felipecn.com/wp/)_
 [Yves Junqueira](https://www.blogger.com/profile/00104361785049371212 "noreply@blogger.com") - <time datetime="2007-04-29T07:10:00.000-07:00">Apr 0, 2007</time>

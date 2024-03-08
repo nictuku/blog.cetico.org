@@ -41,14 +41,6 @@ No mundo UNIX o poder está nas nossas mãos - podemos usar ainda um LABEL perso
   
 Veja fstab(5).
 # Archived Comments
----
-title: 'Novidade no edgy: UUID no fstab e menu.lst do grub'
-date: 2006-08-21T14:34:00.000-07:00
-draft: false
-url: /2006/08/novidade-no-edgy-uuid-no-fstab-e.html
-tags: 
-- Ubuntu
----
 
 #### _Original comment from:_
 [Yves Junqueira](https://www.blogger.com/profile/00104361785049371212 "noreply@blogger.com") - <time datetime="2006-08-24T08:08:00.000-07:00">Aug 4, 2006</time>

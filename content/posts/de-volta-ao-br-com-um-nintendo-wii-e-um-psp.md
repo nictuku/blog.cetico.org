@@ -58,14 +58,6 @@ O Crisis Core é um "RPG" da SquareEnix de altíssima qualidade e muito divertid
 
 Se alguém aí tem o Mario Kart Wii, me adicione pra gente poder jogar depois. Minha licença é: Beavis - _4468-1808-0624_. KTHNXBYE!
 # Archived Comments
----
-title: 'De volta ao BR, com um Nintendo Wii e um PSP'
-date: 2008-06-08T13:07:00.001-07:00
-draft: false
-url: /2008/06/de-volta-ao-br-com-um-nintendo-wii-e-um_08.html
-tags: 
-- Pessoal
----
 
 #### _Comment from_
 [Yves Junqueira](https://www.blogger.com/profile/00104361785049371212 "noreply@blogger.com") - <time datetime="2008-06-08T14:56:00.000-07:00">Jun 0, 2008</time>

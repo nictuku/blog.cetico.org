@@ -17,14 +17,6 @@ Segundo, porque existem vários grupos (e até um fórum) e todo mundo fica quer
 Aliás, criaram dia desses um CISSP-DF, onde os caras prometem montar um grupo de estudo para estudarem durante 1 ano pra prova (viu porque meu sprint é irrealista?), mas não sei o que já foi discutido porque minha "participação está pendente de aprovação".  
 Falando em Segurança da Informação, sinto falta de posts do [coredump](http://blog.core.eti.br) no [Planet Arkhan](http://planet.core.eti.br). Cadê ocê?
 # Archived Comments
----
-title: 'I don&#39;t wanna grow up'
-date: 2006-06-17T16:08:00.000-07:00
-draft: false
-url: /2006/06/i-don-wanna-grow-up.html
-tags: 
-- Pessoal
----
 
 #### _Original comment from:_
 [Yves Junqueira](https://www.blogger.com/profile/00104361785049371212 "noreply@blogger.com") - <time datetime="2006-06-18T03:13:00.000-07:00">Jun 0, 2006</time>

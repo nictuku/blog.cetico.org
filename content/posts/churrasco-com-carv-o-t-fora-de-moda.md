@@ -20,14 +20,6 @@ Hoje na inauguração do equipamento culinárico fizemos [lónguiça](http://www
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi1iKjefWHfmh7FMFT6c0ApR6lHFA_CoZE46EwI7yB5htkNaRa2ql8rTIiClNXty-KCQ72YdpUx63CbrFcLUds9OnGxAi_x_b8bOeazQ5tvan_eSDtM8ef1Xy9pq9f4V_DYeGRK3GkhSQA/s320/GEDC2873.JPG)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi1iKjefWHfmh7FMFT6c0ApR6lHFA_CoZE46EwI7yB5htkNaRa2ql8rTIiClNXty-KCQ72YdpUx63CbrFcLUds9OnGxAi_x_b8bOeazQ5tvan_eSDtM8ef1Xy9pq9f4V_DYeGRK3GkhSQA/s1600-h/GEDC2873.JPG)  
 Tá notando a falta de alguma coisa? Sim, tá faltando carne de verdade. É que aqui a gente não se acha carne bovina com muita facilidade, não. Pra comprar carne a Carla precisar ir num açougue brasileiro. Lá tem tudo o que você pensar - incluindo arroz, feijão e picanha. Daqui uns dias vamos nos abastecer e fazer um churrasco legítimo. O de hoje foi só brincadeirinha.
 # Archived Comments
----
-title: 'Churrasco com carvão tá fora de moda'
-date: 2009-07-28T15:46:00.000-07:00
-draft: false
-url: /2009/07/churrasco-com-carvao-ta-fora-de-moda.html
-tags: 
-- Pessoal
----
 
 #### Depois você me diz se o churrasco de verdade deu c...
 [Zaíra Bosco](https://www.blogger.com/profile/10916277250512977800 "noreply@blogger.com") - <time datetime="2009-07-29T09:05:36.736-07:00">Jul 3, 2009</time>

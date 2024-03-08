@@ -24,17 +24,6 @@ Se por um lado é difícil saber o que estudar e por onde começar, por outro la
   
 Por isso recentemente estou focando mais as minhas leituras em teoria. Minha primeira aventura é com [Computer Architecture: a quantitative approach](http://www.librarything.com/work/187805/details/33228985). Se eu conseguir **terminar** de ler esse livro, mereço um diploma em ciência da perseverança.
 # Archived Comments
----
-title: 'Pratica com teoria'
-date: 2008-07-13T08:26:00.001-07:00
-draft: false
-url: /2008/07/pratica-com-teoria.html
-tags: 
-- ciência da computação
-- teoria
-- autodidata
-- Pessoal
----
 
 #### _Comment from Gustavo Noronha:_ Eu tenho o...
 [Yves Junqueira](https://www.blogger.com/profile/00104361785049371212 "noreply@blogger.com") - <time datetime="2008-07-14T01:26:00.000-07:00">Jul 1, 2008</time>

@@ -22,17 +22,6 @@ O que me surpreendeu mesmo no Google foram as pessoas. Todos são felizes por tr
   
 Pra terminar, o emprego mudou, mas continuo trabalhando com [os mesmo 'sapatos' de antigamente](http://cetico.org/tech/2007/05/sapatos-novos.html).
 # Archived Comments
----
-title: '1 mes em Beaga e ainda de chinelos'
-date: 2008-03-02T09:25:00.000-08:00
-draft: false
-url: /2008/03/1-mes-em-beaga-e-ainda-de-chinelos.html
-tags: 
-- google
-- belo horizonte
-- chinelos
-- Pessoal
----
 
 #### _Comment from_
 [Yves Junqueira](https://www.blogger.com/profile/00104361785049371212 "noreply@blogger.com") - <time datetime="2008-03-02T11:30:00.000-08:00">Mar 0, 2008</time>

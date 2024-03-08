@@ -35,15 +35,6 @@ Os próximos passos são tornar a interface mais amigável e permitir a utiliza�
   
 **Sobre a Yourbase**A YourBase é uma empresa de hospedagem de servidores Linux com **acesso root**. Utilizamos Xen como tecnologia de virtualização e suportamos diversas aplicações e linguagens, como Ruby on Rails, TurboGears, Django, Drupal, Java, Python, PHP e Perl. Oferecemos [planos](https://www.yourbase.com.br/planos/) a partir de R$49.05.
 # Archived Comments
----
-title: 'Servidores de DNS gratuitos na YourBase'
-date: 2007-08-22T19:37:00.000-07:00
-draft: false
-url: /2007/08/servidores-de-dns-gratuitos-na-yourbase.html
-tags: 
-- yourbase
-- Tech
----
 
 #### _Comment from_
 [Yves Junqueira](https://www.blogger.com/profile/00104361785049371212 "noreply@blogger.com") - <time datetime="2007-10-16T02:37:00.000-07:00">Oct 2, 2007</time>

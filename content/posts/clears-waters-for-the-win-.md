@@ -24,21 +24,6 @@ Alguns updates.
 6.  Recomendo **fortemente** a aquisição do "[bash Cookbook](http://www.librarything.com/work/3956113/book/23368798)". Todo mundo que usa bash deveria ter esse livro (o meu tá no [Safari](http://safari.oreilly.com), aliás um serviço que precisa de um substituto urgente). Ele mostra diversas "receitas" de utilização do bash, de coisas básicas a avançadas, sem enrolação mas com ótimas explicações. O livro é muito bem organizado e nada superficial.  
     A única coisa que me incomoda é a presença de exemplos em _awk_, aquela coisa estranha que eu sempre evito usando Perl ou Python. Mas [tem gente que gosta](http://br-linux.org/linux/mais-sorteados-nos-favoritos-2007-segunda-chamada-preemptiva) - depois dizem que Perl é write-only :-).
 # Archived Comments
----
-title: 'Clears Waters for the win!'
-date: 2007-12-10T18:09:00.000-08:00
-draft: false
-url: /2007/12/clears-waters-for-win.html
-tags: 
-- aguas claras
-- awk
-- bh
-- perl
-- amazon
-- google
-- bash
-- Pessoal
----
 
 #### _Comment from [Lorn...](http://lornlab.org)_
 [Yves Junqueira](https://www.blogger.com/profile/00104361785049371212 "noreply@blogger.com") - <time datetime="2007-12-11T05:33:00.000-08:00">Dec 2, 2007</time>

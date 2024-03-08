@@ -36,4 +36,3 @@ Os antigos mestres do gênero [_slasher_](http://en.wikipedia.org/wiki/Slasher_f
   
 Se um filme me deixou tão chocado ao dar liberdade demais à minha imaginação, imagino que um [bom livro de terror](http://books.google.com/books?id=tNmCBPX7S3sC&printsec=frontcover&dq=call+of+cthulhu&sig=1UyjD8SFuMEYATrYzm-VwE5uGBo) deva fazer um estrago ainda maior. Vou ler um desses e ver o barato que dá. :-)
 # Archived Comments
-

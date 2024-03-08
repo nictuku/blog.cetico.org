@@ -27,14 +27,6 @@ Se eu não conseguir achar comprador aqui, faço leilão no ML - apesar de que a
   
 Pela atenção, gradecido.
 # Archived Comments
----
-title: 'Vendo Câmera Samsung Digimax 530'
-date: 2009-01-06T18:16:00.000-08:00
-draft: false
-url: /2009/01/vendo-cmera-samsung-digimax-530.html
-tags: 
-- Pessoal
----
 
 #### Divide em duas que eu pago!
 [Ciniro Nametala](https://www.blogger.com/profile/09739850884911407665 "noreply@blogger.com") - <time datetime="2009-01-08T10:24:00.000-08:00">Jan 4, 2009</time>

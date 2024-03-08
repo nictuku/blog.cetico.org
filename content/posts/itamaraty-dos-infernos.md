@@ -7,12 +7,6 @@ url: /2009/03/itamaraty-dos-infernos.html
 
 Eu tenho um monte de conhecidos diplomatas, e me deixariam muito feliz se [lessem esse post](http://www.globalpost.com/dispatch/brazil/090302/adventures-brazilian-bureaucracy).
 # Archived Comments
----
-title: 'Itamaraty dos Infernos'
-date: 2009-03-07T16:03:00.000-08:00
-draft: false
-url: /2009/03/itamaraty-dos-infernos.html
----
 
 #### Grande Yves, li o artigo que vc recomendou. E é be...
 [RAFA](https://www.blogger.com/profile/15412624544919014280 "noreply@blogger.com") - <time datetime="2009-03-07T19:25:00.000-08:00">Mar 0, 2009</time>

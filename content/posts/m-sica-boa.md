@@ -25,12 +25,6 @@ Daí então eu cresci e tentei descobrir coisas novas sozinho, o que não deu mu
   
 Mesmo assim, confesso, ainda adoro [Raul](http://www.youtube.com/watch?v=Z9acj80LtvM). E Green Day.
 # Archived Comments
----
-title: 'Música boa'
-date: 2009-08-01T15:45:00.000-07:00
-draft: false
-url: /2009/08/eterna-adolescencia.html
----
 
 #### Raul Seixas só é um pouco antiguinho! Hehe!! Curt...
 [Jéssica e Isadora](https://www.blogger.com/profile/14588933903885325945 "noreply@blogger.com") - <time datetime="2009-08-04T16:04:48.939-07:00">Aug 3, 2009</time>

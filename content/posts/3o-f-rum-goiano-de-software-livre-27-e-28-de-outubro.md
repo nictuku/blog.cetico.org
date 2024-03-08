@@ -15,14 +15,6 @@ Se houver conexão à Internet, a intenção é inscrever os participantes nas l
   
 Há ainda muito o que fazer, e muita gente querendo ajudar. Só precisamos dar um empurrãozinho.
 # Archived Comments
----
-title: '3o Fórum Goiano de Software Livre - 27 e 28 de outubro'
-date: 2006-10-01T12:03:00.001-07:00
-draft: false
-url: /2006/10/3o-frum-goiano-de-software-livre-27-e_01.html
-tags: 
-- Ubuntu
----
 
 #### _Original comment from: Paulo_ Opa! Como f...
 [Yves Junqueira](https://www.blogger.com/profile/00104361785049371212 "noreply@blogger.com") - <time datetime="2006-10-01T14:54:00.000-07:00">Oct 0, 2006</time>

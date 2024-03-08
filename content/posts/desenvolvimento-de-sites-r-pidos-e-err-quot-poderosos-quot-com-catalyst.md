@@ -156,15 +156,6 @@ Aliás, falando de performance, o Catalyst atende todos os gostos. Para desenvol
 
 Num próximo post, continuarei o desenvolvimento do PF-Graph mostrando buscas específicas, autenticação e tentarei usar alguns gráficos bonitinhos :-).
 # Archived Comments
----
-title: 'Desenvolvimento de sites rápidos e err, &quot;poderosos&quot;, com Catalyst'
-date: 2006-07-29T18:30:00.000-07:00
-draft: false
-url: /2006/07/desenvolvimento-de-sites-rpidos-e-err.html
-tags: 
-- Ubuntu
-- Catalyst
----
 
 #### _Original comment from:_
 [Yves Junqueira](https://www.blogger.com/profile/00104361785049371212 "noreply@blogger.com") - <time datetime="2006-07-30T04:37:00.000-07:00">Jul 0, 2006</time>

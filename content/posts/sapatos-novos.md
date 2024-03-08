@@ -14,14 +14,6 @@ tags:
   
 Hoje sai pra comprar sapatos novos, que se adequem ao meu novo trabalho diurno. Segue imagem. :-)
 # Archived Comments
----
-title: 'Sapatos novos'
-date: 2007-05-22T14:24:00.000-07:00
-draft: false
-url: /2007/05/sapatos-novos.html
-tags: 
-- Pessoal
----
 
 #### _Comment from_
 [Yves Junqueira](https://www.blogger.com/profile/00104361785049371212 "noreply@blogger.com") - <time datetime="2007-05-22T19:11:00.000-07:00">May 3, 2007</time>

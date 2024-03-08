@@ -14,14 +14,6 @@ O Peter Bryant acabou de enviar um e-mail para os clientes da Rimuhosting.com ex
   
 Foram contratados 6 caras novos recentemente, incluindo eu, que devo trabalhar em tempo integral a partir da próxima semana, mas ainda assim tem trabalho suficiente pra mais gente. Pra quem se interessar, siga o link acima e boa sorte. :-)
 # Archived Comments
----
-title: 'Contratam-se hackers :-)'
-date: 2007-05-06T19:05:00.000-07:00
-draft: false
-url: /2007/05/contratam-se-hackers.html
-tags: 
-- Pessoal
----
 
 #### _Comment from_
 [Yves Junqueira](https://www.blogger.com/profile/00104361785049371212 "noreply@blogger.com") - <time datetime="2007-05-25T11:11:00.000-07:00">May 5, 2007</time>

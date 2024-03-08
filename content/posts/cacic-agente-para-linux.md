@@ -53,15 +53,6 @@ Mais informações sobre o desenvolvimento em:
   
 \- Yves Junqueira
 # Archived Comments
----
-title: 'CACIC - Agente para Linux'
-date: 2005-07-28T13:24:00.000-07:00
-draft: false
-url: /2005/07/cacic-agente-para-linux.html
-tags: 
-- Tech Tip
-- Pessoal
----
 
 #### _Original comment from:_
 [Yves Junqueira](https://www.blogger.com/profile/00104361785049371212 "noreply@blogger.com") - <time datetime="2005-08-17T16:18:00.000-07:00">Aug 4, 2005</time>

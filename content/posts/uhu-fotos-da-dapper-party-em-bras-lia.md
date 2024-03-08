@@ -64,16 +64,6 @@ Isso mesmo, 20 pessoas. Além de Ubunteiros e ubunteiras, nosso encontro foi pre
   
 Aos que moram em Brasília mas ainda não fazem parte da comunidade, visitem nosso site (ou melhor, [nossa página de wiki](http://wiki.ubuntubrasil.org/UbuntuDF)) e, principalmente, [inscreva-se na nossa lista](http://listas.ubuntubrasil.org/mailman/listinfo/ubuntu-df). Todos são bem-vindos :-).
 # Archived Comments
----
-title: 'Uhu! Fotos da Dapper Party em Brasília'
-date: 2006-06-06T16:56:00.000-07:00
-draft: false
-url: /2006/06/uhu-fotos-da-dapper-party-em-braslia.html
-tags: 
-- Ubuntu-BR
-- Ubuntu
-- Pessoal
----
 
 #### _Original comment from: gpeixoto_ Foi esqu...
 [Yves Junqueira](https://www.blogger.com/profile/00104361785049371212 "noreply@blogger.com") - <time datetime="2006-06-06T18:00:00.000-07:00">Jun 3, 2006</time>

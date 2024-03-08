@@ -16,14 +16,6 @@ Contatos: lucius.curado # gmail.com / yves.junqueira # ubuntu.com - (61) 9144-95
 Não tem complicação. É um encontro num bar :-)  
 Vários já confirmaram presença. Vai lá, pô - vai ser excelente!
 # Archived Comments
----
-title: 'Dapper Release Party em Brasília'
-date: 2006-05-31T16:17:00.000-07:00
-draft: false
-url: /2006/05/dapper-release-party-em-braslia.html
-tags: 
-- Ubuntu
----
 
 #### _Original comment from: Tucson_ Pow... Não...
 [Yves Junqueira](https://www.blogger.com/profile/00104361785049371212 "noreply@blogger.com") - <time datetime="2006-06-01T02:05:00.000-07:00">Jun 4, 2006</time>

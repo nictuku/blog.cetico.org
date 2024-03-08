@@ -34,15 +34,6 @@ Para ver mais fotos, é só clicar naquelas ali de cima.
   
 PS: Adliswil se fala "ADLISVÍU". Viu, [Zaíra](http://zulmyra.blogspot.com/)?
 # Archived Comments
----
-title: 'Sábado de Sol em Adliswil'
-date: 2009-03-07T10:29:00.000-08:00
-draft: false
-url: /2009/03/sabado-de-sol-em-adliswil.html
-tags: 
-- Zurich
-- Pessoal
----
 
 #### Então vc foi embora senhor Yves?  
 Poxa que legal...

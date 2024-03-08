@@ -29,14 +29,6 @@ Meu consolo (palavra capciosa) é saber que existem diversas categorias de traba
   
 Como tenho ficado muito tempo sozinho, tenho pensado em um monte de besteiras. Que bom que tenho um blog pra compartilhar isso com um monte de gente. :-)
 # Archived Comments
----
-title: 'Telecomutacao como sysadmin'
-date: 2007-06-01T21:50:00.000-07:00
-draft: false
-url: /2007/06/telecomutacao-como-sysadmin.html
-tags: 
-- Pessoal
----
 
 #### _Comment from Pascal:_ Que vida maravilhos...
 [Yves Junqueira](https://www.blogger.com/profile/00104361785049371212 "noreply@blogger.com") - <time datetime="2007-06-04T03:59:00.000-07:00">Jun 1, 2007</time>

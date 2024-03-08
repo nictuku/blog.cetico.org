@@ -13,14 +13,6 @@ Many would agree that book should be also labeled "how to find pirated or innoce
   
 \=\]
 # Archived Comments
----
-title: 'How to download &quot;Google Hacks&quot; oreilly ebook: irony'
-date: 2005-01-03T17:40:00.000-08:00
-draft: false
-url: /2005/01/how-to-download-hacks-oreilly-ebook.html
-tags: 
-- Ubuntu
----
 
 #### _Original comment from:_
 [Yves Junqueira](https://www.blogger.com/profile/00104361785049371212 "noreply@blogger.com") - <time datetime="2005-05-29T16:31:00.000-07:00">May 1, 2005</time>

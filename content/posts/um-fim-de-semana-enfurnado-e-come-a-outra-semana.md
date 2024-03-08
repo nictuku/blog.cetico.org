@@ -17,14 +17,6 @@ No mais, como talvez o meu recém criado [del.icio.us](http://del.icio.us/yvesjm
   
 Pra terminar de forma trágica o fim de semana, acabo de ver que as [Ubuntu-BR wars](http://planeta.ubuntubrasil.org/post/1078) continuam.
 # Archived Comments
----
-title: 'um fim-de-semana enfurnado e começa outra semana'
-date: 2006-10-08T19:26:00.000-07:00
-draft: false
-url: /2006/10/um-fim-de-semana-enfurnado-e-comea.html
-tags: 
-- Pessoal
----
 
 #### _Original comment from:_
 [Yves Junqueira](https://www.blogger.com/profile/00104361785049371212 "noreply@blogger.com") - <time datetime="2006-10-09T03:17:00.000-07:00">Oct 1, 2006</time>

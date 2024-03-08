@@ -11,14 +11,6 @@ Já estou de volta a BH. Mas um último post sobre minha viagem a Sydney precisa
   
 Estava eu andando pelo centro de Sydney, quando aparecem uns adolescentes de máscara, ligam um somzinho bem alto, e começam a dançar. Acho que a música era em japonês, e a coreografia pelo jeito também ;-).
 # Archived Comments
----
-title: 'Que diabéisso? Adolescentes piradinhos em Sydney.'
-date: 2008-09-13T16:55:00.000-07:00
-draft: false
-url: /2008/09/que-diabisso-adolescentes-piradinhos-em.html
-tags: 
-- sydney
----
 
 #### São bem mais simpáticos que os Emos :-P
 [Marcelo Lemos](https://www.blogger.com/profile/09826675254975780722 "noreply@blogger.com") - <time datetime="2008-09-15T05:54:00.000-07:00">Sep 1, 2008</time>
