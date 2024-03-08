@@ -1,8 +1,10 @@
 ---
 title: 'Check-up geral'
-date: 2004-12-17T22:58:00.000-08:00
+date: 2004-12-17T20:58:00.000-08:00
 draft: false
 url: /2004/12/check-up-geral.html
+tags: 
+- Ubuntu
 ---
 
 Como diria o Raulzito,  

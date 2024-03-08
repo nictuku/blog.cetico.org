@@ -1,8 +1,10 @@
 ---
 title: 'Domain hijackers'
-date: 2004-09-07T23:32:00.000-07:00
+date: 2004-09-07T20:32:00.000-07:00
 draft: false
 url: /2004/09/domain-hijackers.html
+tags: 
+- Ubuntu
 ---
 
 While testing for a better layout for the google ad you see in the left, I've got interested in one very evil service.  

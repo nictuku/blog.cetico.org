@@ -1,8 +1,10 @@
 ---
-title: 'Jun  8 14:57:50  rinetd[21939]: accept(0): Socket operation on non-socket'
-date: 2005-06-08T11:03:00.000-07:00
+title: 'Jun 8 14:57:50 rinetd[21939]: accept(0): Socket operation on non-socket'
+date: 2005-06-08T08:03:00.000-07:00
 draft: false
-url: /2005/06/jun-8-145750-rinetd21939-accept0.html
+url: /2005/06/jun-8-145750-rinetd21939-accept0-socket.html
+tags: 
+- Ubuntu
 ---
 
 For the record.  

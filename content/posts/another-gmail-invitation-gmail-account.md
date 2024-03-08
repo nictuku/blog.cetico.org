@@ -1,8 +1,10 @@
 ---
 title: 'Another GMAIL INVITATION - gmail account'
-date: 2004-09-09T15:03:00.000-07:00
+date: 2004-09-09T12:03:00.000-07:00
 draft: false
 url: /2004/09/another-gmail-invitation-gmail-account.html
+tags: 
+- Ubuntu
 ---
 
 Follow this:  

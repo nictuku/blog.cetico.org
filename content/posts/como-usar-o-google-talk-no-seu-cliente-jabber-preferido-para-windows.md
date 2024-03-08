@@ -1,8 +1,10 @@
 ---
 title: 'Como usar o Google Talk no seu cliente Jabber preferido para Windows'
-date: 2005-08-23T20:25:00.000-07:00
+date: 2005-08-23T17:25:00.000-07:00
 draft: false
 url: /2005/08/como-usar-o-google-talk-no-seu-cliente.html
+tags: 
+- Ubuntu
 ---
 
 [English](http://www.cetico.org/blog/2005/08/how-to-use-google-talk-using-your.html)  

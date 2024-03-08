@@ -1,8 +1,10 @@
 ---
 title: 'Argh'
-date: 2005-01-26T00:30:00.000-08:00
+date: 2005-01-25T22:30:00.000-08:00
 draft: false
 url: /2005/01/argh.html
+tags: 
+- Ubuntu
 ---
 
 Joel Schumacher is the worst movie director in hollywood.  

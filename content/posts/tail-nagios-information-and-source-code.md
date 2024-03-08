@@ -1,8 +1,10 @@
 ---
 title: 'tail-nagios information and source code'
-date: 2005-05-24T14:12:00.000-07:00
+date: 2005-05-24T11:12:00.000-07:00
 draft: false
-url: /2005/05/tail-nagios-information-and-source.html
+url: /2005/05/tail-nagios-information-and-source-code.html
+tags: 
+- Ubuntu
 ---
 
 Hi.  

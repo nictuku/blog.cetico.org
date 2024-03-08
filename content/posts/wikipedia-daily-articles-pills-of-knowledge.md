@@ -1,8 +1,10 @@
 ---
 title: 'Wikipedia daily articles: pills of knowledge'
-date: 2004-09-19T12:50:00.000-07:00
+date: 2004-09-19T09:50:00.000-07:00
 draft: false
 url: /2004/09/wikipedia-daily-articles-pills-of.html
+tags: 
+- Ubuntu
 ---
 
 I've subscribed a few weeks ago to the [Wikipedia daily articles list](http://mail.wikimedia.org/mailman/listinfo/daily-article-l).  

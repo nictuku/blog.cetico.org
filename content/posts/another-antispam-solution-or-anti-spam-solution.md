@@ -1,8 +1,10 @@
 ---
 title: 'Another Antispam Solution, or anti-spam solution'
-date: 2004-09-05T16:32:00.000-07:00
+date: 2004-09-05T13:32:00.000-07:00
 draft: false
 url: /2004/09/another-antispam-solution-or-anti-spam.html
+tags: 
+- Ubuntu
 ---
 
 The amount of spam targeted to our servers is huge.  
@@ -22,4 +24,3 @@ This technique I am now using, which I read is used in some RBL providers, requi
 Also, deploying it in other servers would be very easy, differently from DSPAM, which could be a pain for new sysadmins.  
   
 I won't discuss it further because there isn't anybody reading anyway. This is for historic record :-)
-

@@ -1,8 +1,10 @@
 ---
 title: 'Free image hosting services review'
-date: 2005-01-04T17:08:00.000-08:00
+date: 2005-01-04T15:08:00.000-08:00
 draft: false
 url: /2005/01/free-image-hosting-services-review.html
+tags: 
+- Ubuntu
 ---
 
 Do you have a digital camera, or anyway want to host many pictures in the web, but can't afford to pay for the bandwidth that would usually cost?  

@@ -1,8 +1,10 @@
 ---
 title: 'There were errors'
-date: 2004-09-08T00:05:00.000-07:00
+date: 2004-09-07T21:05:00.000-07:00
 draft: false
 url: /2004/09/there-were-errors.html
+tags: 
+- Ubuntu
 ---
 
 Weeee. Blogger couldn't publish anything for several hours.  

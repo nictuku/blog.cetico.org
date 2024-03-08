@@ -1,8 +1,10 @@
 ---
 title: 'Glob, mlog - maillog, gmailog'
-date: 2005-01-02T21:05:00.000-08:00
+date: 2005-01-02T19:05:00.000-08:00
 draft: false
 url: /2005/01/glob-mlog-maillog-gmailog.html
+tags: 
+- Ubuntu
 ---
 
 O gmail trouxe uma nova realidade pro meu cotidiano. Pude assinar diversas listas interessantes, que eu nunca podia passinar pela dificuldade de guardar as mensagens - e de organizá-las. O resultado é que o tráfego de mensagens que agora recebo diariamente é enorme.  

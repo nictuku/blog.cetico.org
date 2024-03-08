@@ -1,8 +1,10 @@
 ---
 title: 'Fedora Core with Mysql 4'
-date: 2004-09-10T21:23:00.000-07:00
+date: 2004-09-10T18:23:00.000-07:00
 draft: false
 url: /2004/09/fedora-core-with-mysql-4.html
+tags: 
+- Ubuntu
 ---
 
 David Martínez was kind enough to put up a repository of MySQL 4 and further dependencies compiled for FC2.  

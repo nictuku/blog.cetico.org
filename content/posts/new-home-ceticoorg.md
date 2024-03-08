@@ -1,8 +1,10 @@
 ---
 title: 'New home: cetico.org'
-date: 2005-06-06T22:01:00.000-07:00
+date: 2005-06-06T19:01:00.000-07:00
 draft: false
 url: /2005/06/new-home-ceticoorg.html
+tags: 
+- Ubuntu
 ---
 
 Great. As GoDaddy's prices are so low, I've decided to pay for a web hosting (so cheap!) and host this blog there.  

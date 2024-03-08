@@ -1,8 +1,10 @@
 ---
 title: 'Dedicated Servers'
-date: 2004-09-07T21:08:00.000-07:00
+date: 2004-09-07T18:08:00.000-07:00
 draft: false
 url: /2004/09/dedicated-servers.html
+tags: 
+- Ubuntu
 ---
 
 I've start making a Dedicated Servers research, looking for good prices and interesting service.  

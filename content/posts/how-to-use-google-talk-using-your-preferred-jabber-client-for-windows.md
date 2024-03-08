@@ -1,8 +1,10 @@
 ---
 title: 'How to use Google Talk using your preferred Jabber Client for Windows'
-date: 2005-08-23T20:17:00.000-07:00
+date: 2005-08-23T17:17:00.000-07:00
 draft: false
 url: /2005/08/how-to-use-google-talk-using-your.html
+tags: 
+- Tech Tip
 ---
 
 Google will launch tomorrow its instant messaging service.  
