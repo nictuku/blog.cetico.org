@@ -1,6 +1,6 @@
 ---
 title: 'O que fazer quando nos sentimos sobrecarregados'
-date: 2024-12-06T08:36:00.000-08:00
+date: 2024-12-06T08:36:00.000-00:00
 draft: false
 url: /2024/12/meu-guia-da-serenidade.html
 ---
