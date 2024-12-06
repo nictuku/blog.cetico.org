@@ -21,8 +21,7 @@ url = "https://www.linkedin.com/in/yvesjunqueira/"
 
 [params]
   about = """
-Yves Junqueira é um engenheiro de software. Ele é um dos fundadores da Artell, uma empresa de consultoria em tecnologia. Yves é um entusiasta de software livre e de código aberto. Ele também foi um dos fundadores da YourBase, uma empresa que criava ferramentas para desenvolvimento de software. Yves foi um engenheiro sênior na Google, onde trabalhou em projetos de infraestrutura e produtos de mensangeria.
-"""
+Sou Yves Junqueira, engenheiro de software e um dos fundadores da Artell, uma empresa de consultoria em tecnologia. Sou apaixonado por software livre e de código aberto. Trabalhei como engenheiro sênior no Google, onde contribuí para projetos de infraestrutura e produtos de mensageria. Também fui um dos fundadores da YourBase, uma empresa focada em criar ferramentas para desenvolvimento de software."""
 
 [services]
   [services.googleAnalytics]
