@@ -12,17 +12,19 @@ Aconteceu mais uma vez. Comecei a me sentir sobrecarregado no trabalho e na vida
 ## 1. Reconhecer a sobrecarga
 Primeiro, é importante detectar quando estamos sobrecarregados. Pode ser porque as coisas estão indo muito bem. Ou porque estão indo mal. Talvez você tenha coisas demais para fazer – ou, pelo contrário, esteja totalmente sem chão e direção por conta de um layoff repentino.
 
-Quando estamos sobrecarregados, as emoções podem sair do controle: à flor da pele ou entorpecidas. Ambas as situações são sinais de alerta. Pergunte a si mesmo: "Será que estou sobrecarregado?"
+Quando estamos sobrecarregados, as emoções podem sair do controle: à flor da pele ou entorpecidas. Ambas as situações são sinais de alerta. Nesses momentos eu me pergunto: "Será que estou sobrecarregado?"
 
 ## 2. Aceitar nossas emoções
-Depois de perceber, precisamos aceitar nossas emoções como válidas. É normal se sentir sobrecarregado e ficar ranzinza ou calado. Não precisamos nos julgar ou nos sentir inadequados. É só o nosso cérebro querendo nos proteger.
+Depois de perceber o que está acontecendo, precisamos aceitar nossas emoções como válidas. É normal se sentir sobrecarregado e ficar ranzinza ou calado. Não precisamos nos julgar ou nos sentir inadequados. É só o nosso cérebro querendo nos proteger.
 
 Pense na parte emocional do nosso cérebro como um golden retriever que quer o nosso bem. Se você conhece os goldens, sabe que eles não são os cachorros mais inteligentes do mundo. Mas são extremamente carinhosos e protetores. Nosso cérebro é assim: bem-intencionado, mas confuso.
 
 ## 3. Praticar a gratidão
-O próximo passo é um truque curioso que funciona quando estamos confusos ou sobrecarregados: buscar razões para estar grato por alguma coisa. Nem precisa ser algo super bem pensado, desde que seja genuíno.
+O próximo passo é um truque curioso que funciona quando estamos confusos ou sobrecarregados: buscar razões para estar grato por alguma coisa. Nem precisa ser algo super bem pensado, desde que seja genuíno. Anote três coisas pelas quais você é grato hoje. 
 
-Anote três coisas pelas quais você é grato hoje. Eu sou grato por ter comida na geladeira, por ter amigos e familiares que amo. São coisas simples, mas poderosas. Faz bem lembrar que, apesar das dificuldades, sempre temos motivos para agradecer. Isso nos faz sentir bem, e nos ajuda a passar pra próxima fase.
+Por exemplo, eu sou grato por ter comida na geladeira, por ter amigos e familiares que amo. 
+
+São coisas simples, mas poderosas. Faz bem lembrar que, apesar das dificuldades, sempre temos motivos para agradecer. Isso nos faz sentir bem, e nos ajuda a passar pra próxima fase.
 
 ## 4. Racionalizar a situação
 
@@ -34,7 +36,10 @@ Seja qual for a abordagem, a ideia é rever os fatos de forma racional. Por que 
 
 A sobrecarga vem do excesso de cobrança. O que está sendo cobrado e quem está cobrando? É você? Ou um chefe? A ideia não é ficar com raiva de alguém, apenas reconhecer os fatos. Você está sendo cobrado para entregar um projeto no prazo, ou para resolver um problema difícil, como encontrar um novo emprego?
 
+No meu caso recente, eu inventei um prazo pra mim mesmo, e estava me cobrando por isso, desnecessariamente.
+
 ## 5. Tomar medidas práticas
+
 Agora, sem pressa, imagine o que aconteceria no mundo se você ignorasse todos esses problemas por um dia ou dois. Tente sair da armadilha do “ah, eu me sentiria muito mal”. Precisamos diferenciar as consequências reais das mentais.
 
 Será que, na verdade, isso pode esperar? Em muitos casos, algum evento recente nos dá vontade de reagir rapidamente aos novos fatos. Mas, se essa urgência imaginada está causando desequilíbrio, é melhor ignorar.
