@@ -1,5 +1,5 @@
 baseURL = "https://blog.cetico.org/"
-languageCode = "en-us"
+languageCode = "pt-br"
 title = "blog.cetico.org"
 theme="rocinante"
 copyright = "© Yves Junqueira"
