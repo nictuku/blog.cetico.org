@@ -42,6 +42,6 @@ Ao mesmo tempo, se estamos nos cobrando (ou sendo cobrados) para resolver um pro
 
 O efeito é instantâneo, como tirar um enorme peso das costas. A partir daí, tudo fica mais fácil.
 
-Essa semana eu apliquei esses guia da serenidade mais uma vez – reconheci a sobrecarga, aceitei as emoções, lembrei de razões para sentir gratidão e racionalizei as expectativas. Criar esse hábito me ajudou a viver uma vida mais equilibrada, tanto no pessoal quanto no profissional. Adoraria saber se te ajudou de alguma forma também.
+Essa semana eu apliquei esses guia da serenidade mais uma vez – reconheci a sobrecarga, aceitei as emoções, lembrei de razões para sentir gratidão e racionalizei as expectativas. Criar esse hábito me ajudou a viver uma vida mais equilibrada, tanto no pessoal quanto no profissional. Espero que te ajudou de alguma forma também.
 
-- Yves
+Yves
