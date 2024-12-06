@@ -7,7 +7,7 @@ url: /2024/12/meu-guia-da-serenidade.html
 
 ![Serenidade](/images/serenidade.png)
 
-Aconteceu mais uma vez. Comecei a me sentir sobrecarregado no trabalho e na vida pessoal. Antes, eu me sentia inadequado quando isso acontecia. Hoje sei que não preciso me preocupar porque tenho uma "guia da serenidade" que sigo nessas ocasiões. Esse guia tem me garantido saúde mental e física para tocar a vida e mandar bem no trabalho, e acho que pode ser útil pra outras pessoas. É simples.
+Aconteceu mais uma vez. Comecei a me sentir sobrecarregado no trabalho e na vida pessoal. Antes, eu me sentia inadequado quando isso acontecia. Hoje sei que não preciso me preocupar porque tenho uma receita pessoal para manter uma vida serena, que sigo nessas ocasiões. Isso tem me garantido saúde mental e física para tocar a vida e mandar bem no trabalho, e acho que pode ser útil pra outras pessoas. É simples.
 
 ## 1. Reconhecer a sobrecarga
 Primeiro, é importante detectar quando estamos sobrecarregados. Pode ser porque as coisas estão indo muito bem. Ou porque estão indo mal. Talvez você tenha coisas demais para fazer – ou, pelo contrário, esteja totalmente sem chão e direção por conta de um layoff repentino.
@@ -43,6 +43,6 @@ Ao mesmo tempo, se estamos nos cobrando (ou sendo cobrados) para resolver um pro
 
 O efeito é instantâneo. É como tirar um enorme peso das costas. A partir daí, tudo fica mais fácil.
 
-Essa semana eu apliquei esses guia da serenidade mais uma vez – reconheci a sobrecarga, aceitei as emoções, lembrei de razões para sentir gratidão e racionalizei as expectativas. Criar esse hábito me ajudou a viver uma vida mais equilibrada, tanto no pessoal quanto no profissional. Espero que te ajudou de alguma forma também.
+Essa semana eu apliquei essa minha receita da serenidade mais uma vez. Segui os mesmos passos, e o que era uma crise pessoal logo virou algo pequeno e gerenciável. Tento fazer isso sempre. Criar esse hábito me ajudou a viver uma vida mais equilibrada, tanto no pessoal quanto no profissional. Espero que te ajude de alguma forma também.
 
 Yves
