@@ -22,7 +22,7 @@ Pense na parte emocional do nosso cérebro como um golden retriever que quer o n
 ## 3. Pratique a gratidão
 O próximo passo é um truque curioso que funciona quando estamos confusos ou sobrecarregados: buscar razões para estar grato por alguma coisa. Nem precisa ser algo super bem pensado, desde que seja genuíno.
 
-Por exemplo, podemos agradecer pela comida na geladeira e pelos amigos e familiares que temos. São coisas simples, mas poderosas. Faz bem lembrar que, apesar das dificuldades, sempre temos motivos para agradecer. Isso nos faz sentir bem, e nos ajuda a passar pra próxima fase.
+Anote três coisas pelas quais você é grato hoje. Eu sou grato por ter comida na geladeira, por ter amigos e familiares que amo. São coisas simples, mas poderosas. Faz bem lembrar que, apesar das dificuldades, sempre temos motivos para agradecer. Isso nos faz sentir bem, e nos ajuda a passar pra próxima fase.
 
 ## 4. Racionalize a situação
 Depois da gratidão, o próximo passo é assumir o comando. Quem deve mandar em tudo é nosso córtex pré-frontal. Então passe as rédeas para ele. O jeito é simples:
@@ -42,4 +42,6 @@ Ao mesmo tempo, se estamos nos cobrando (ou sendo cobrados) para resolver um pro
 
 O efeito é instantâneo, como tirar um enorme peso das costas. A partir daí, tudo fica mais fácil.
 
-Esse meu guia da serenidade – reconhecer a sobrecarga, aceitar as emoções, lembrar de razões para sentir gratidão e racionalizar as expectativas – tem me ajudado a viver uma vida mais equilibrada, tanto no pessoal quanto no profissional. Espero que te ajude de alguma forma também. Sou grato pela sua leitura.
+Essa semana eu apliquei esses guia da serenidade mais uma vez – reconheci a sobrecarga, aceitei as emoções, lembrei de razões para sentir gratidão e racionalizei as expectativas. Criar esse hábito me ajudou a viver uma vida mais equilibrada, tanto no pessoal quanto no profissional. Adoraria saber se te ajudou de alguma forma também.
+
+- Yves
