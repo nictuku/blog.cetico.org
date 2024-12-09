@@ -46,6 +46,10 @@ Será que, na verdade, isso pode esperar? Em muitos casos, algum evento recente 
 
 Ao mesmo tempo, se estamos nos cobrando (ou sendo cobrados) para resolver um problema difícil, a solução é ser mais realista com quem estiver cobrando. Deixe claro que esse problema é realmente difícil, e que a solução pode demorar ou pode não funcionar. Se esse risco é real, ele terá de ser reconhecido e compartilhado pelo grupo. Essa discussão provavelmente vai ser mais fácil do que você pensa.
 
+## 6. Peça (e aceite) ajuda
+
+Pode ser difícil para muitos saber aceitar e pedir ajuda dos outros. Mas é importante aprender. Não é uma prova de fracasso - pelo contrário. É muito melhor vencer desafios com ajuda e companhia. Pode ser dos colegas, família ou companheiros. As pessoas sentem prazer de ajudar. E pode facilitar muito nosso caminho.
+
 O efeito é instantâneo. É como tirar um enorme peso das costas. A partir daí, tudo fica mais fácil.
 
 Essa semana eu apliquei essa minha receita da serenidade mais uma vez. Segui os mesmos passos, e o que era uma crise pessoal logo virou algo pequeno e gerenciável. Tento fazer isso sempre. Criar esse hábito me ajudou a viver uma vida mais equilibrada, tanto no pessoal quanto no profissional. Espero que te ajude de alguma forma também.
