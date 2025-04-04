@@ -1,6 +1,6 @@
 ---
 title: 'Impacto das Tarifas dos EUA na Economia Global: Uma Análise Pessoal'
-date: 2025-04-04T12:00:00.000-03:00
+date: 2025-04-04T00:00:00.000-03:00
 draft: false
 url: /2025/04/impacto-tarifas-eua-economia-global.html
 tags: 
