@@ -64,4 +64,4 @@ Estimo em aproximadamente 50% a probabilidade de uma recessão global em um futu
 
 Por precaução, considero prudente manter meus investimentos em ativos de menor risco. Esta decisão, entretanto, introduz um dilema: se uma parcela significativa do mercado adotar postura semelhante de aversão ao risco, poderemos observar um rebalanceamento expressivo de capitais, potencialmente mais intenso que o ocorrido recentemente. Assim, mesmo que a crise seja teoricamente evitável, o comportamento coletivo dos agentes econômicos pode acabar por precipitá-la.
 
-Compartilhar esta análise representa, portanto, um dilema ético, pois ao alertar para riscos potenciais, posso inadvertidamente contribuir para sua concretização. Não obstante, considero um dever profissional apresentar estas reflexões. Mantenho a esperança de que o cenário efetivo se revele menos severo que o aqui projetado. 
+Compartilhar esta análise representa, portanto, um dilema ético, pois ao alertar para riscos potenciais, posso inadvertidamente contribuir para sua concretização. Não obstante, mantenho a esperança de que o cenário efetivo se revele menos severo que o aqui projetado. 
