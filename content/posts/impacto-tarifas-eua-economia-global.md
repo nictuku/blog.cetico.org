@@ -17,6 +17,7 @@ Ao longo das últimas décadas, venho gerenciando investimentos pessoais em trê
 Aproximadamente há um mês, realizei um movimento significativo em meu portfólio, transferindo a maior parte dos recursos para investimentos de renda fixa. Anteriormente, mantinha 80% em ações, predominantemente no mercado americano. Os acontecimentos recentes confirmam que foi uma decisão acertada, considerando a queda generalizada nos mercados globais, com destaque para a forte correção nos Estados Unidos.
 
 ![Queda significativa nas bolsas globais após anúncio das tarifas](/images/bloodbath.png)
+*Painel financeiro mostrando o impacto generalizado das novas tarifas: índices como Dow Jones, S&P 500 e Nasdaq em forte queda (vermelho), enquanto ativos considerados mais seguros, como o franco suíço (CHF) e títulos governamentais, apresentam valorização (verde).*
 
 A análise que me levou a prever a inevitabilidade do aumento de tarifas e seu potencial impacto na economia global mostrou-se correta em sua primeira parte. No entanto, acredito que o verdadeiro impacto econômico global ainda está por vir. As correções observadas no mercado nesta semana podem representar apenas o início de um movimento mais profundo.
 
