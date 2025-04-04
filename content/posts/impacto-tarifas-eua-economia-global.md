@@ -10,59 +10,59 @@ tags:
 - Tarifas
 ---
 
-Eu estudei relações internacionais na UnB e estagiei no Ministério da Fazenda fazendo análises quantitativas do comércio internacional. Além disso, tenho experiência na economia real: fui engenheiro em big techs e fundador de startups, no Brasil, EUA, Suíça e Portugal. Sempre me interessei por macroeconomia e política. Tenho algumas décadas de experiência gerenciando meus próprios investimentos em três continentes. Não sou um PhD em nada, mas me sinto confiante o suficiente para compartilhar alguns dados e alertas com vocês. Meu objetivo não é alarmar, mas preparar os desavisados para o que eu acho que vem aí.
+Formado em relações internacionais pela Universidade de Brasília, tive a oportunidade de estagiar no Ministério da Fazenda, onde realizei análises quantitativas do comércio internacional brasileiro. Minha experiência na economia real inclui posições como engenheiro em empresas de tecnologia de grande porte e fundador de startups em diversos países, incluindo Brasil, Estados Unidos, Suíça e Portugal. 
 
-Há mais ou menos um mês eu movi toda a minha poupança e aposentadoria para investimentos de renda fixa. Antes, eu estava 80% em stocks, a maioria nos EUA. Hoje está claro que fiz a coisa certa, pois as ações no mundo inteiro caíram - mais fortemente nos EUA. 
+Ao longo das últimas décadas, venho gerenciando investimentos pessoais em três continentes, além de manter um interesse constante por macroeconomia e política internacional. Embora não possua um doutorado na área, acredito poder contribuir com uma perspectiva baseada tanto em formação acadêmica quanto em experiência prática. O objetivo desta análise não é causar alarmismo desnecessário, mas oferecer uma reflexão fundamentada sobre o cenário econômico que se desenha.
+
+Aproximadamente há um mês, realizei um movimento significativo em meu portfólio, transferindo a maior parte dos recursos para investimentos de renda fixa. Anteriormente, mantinha 80% em ações, predominantemente no mercado americano. Os acontecimentos recentes confirmam que foi uma decisão acertada, considerando a queda generalizada nos mercados globais, com destaque para a forte correção nos Estados Unidos.
 
 ![Queda significativa nas bolsas globais após anúncio das tarifas](/images/bloodbath.png)
 
-Eu concluí que o tarifaço seria inevitável, e estimei o impacto na economia global, portanto movi meus recursos para ativos mais seguros.
-
-Eu acertei na primeira parte da previsão (o tarifaço aconteceria), mas a segunda parte, o impacto na economica global, pessoalmente eu acredito que ainda nem começou. As perdas dessa semana podem ser, infelizmente, só o começo.
+A análise que me levou a prever a inevitabilidade do aumento de tarifas e seu potencial impacto na economia global mostrou-se correta em sua primeira parte. No entanto, acredito que o verdadeiro impacto econômico global ainda está por vir. As correções observadas no mercado nesta semana podem representar apenas o início de um movimento mais profundo.
 
 ## O Cenário Mais Provável
 
-O cenário que eu acredito ser o mais provável é o seguinte:
+A situação atual pode ser resumida da seguinte forma:
 
-EUA impôs tarifas a praticamente o mundo inteiro. Isso já aconteceu. O que ainda está começando é que o mundo inteiro vai retaliar da forma mais dolorosa possível aos EUA.
+Os Estados Unidos implementaram um aumento tarifário abrangente, afetando praticamente todos os seus parceiros comerciais. Este fato já está consumado. O que ainda está em fase inicial é a resposta internacional, que tende a materializar-se através de retaliações estratégicas contra os interesses econômicos americanos.
 
-Por exemplo, a União Europeia deve focar em tarifar produtos dos EUA que sejam exportados por estados com maioria republicana. A ideia é dar um "feedback" para os eleitores do Trump, que ele vai ter dificuldade em ignorar, e assim barganhar pela redução das tarifas. Dito isso, esse processo deve levar meses para se desenrolar. A equipe econômica que está fazendo esse tarifaço não parece usar nenhuma metodologia robusta para formar suas decisões, o que sugere que eles não devem responder rapidamente aos efeitos imediatos das tarifas. (Eu espero estar errado).
+A União Europeia, por exemplo, deve adotar uma abordagem precisa, focando em produtos americanos provenientes de estados com predominância republicana. Esta estratégia visa criar um canal de comunicação direta com os eleitores que apoiam a atual administração, potencialmente forçando uma reavaliação das políticas tarifárias. No entanto, este processo de negociação tende a estender-se por meses. A equipe econômica responsável pela implementação do aumento tarifário aparenta não utilizar metodologias analíticas robustas em seu processo decisório, o que sugere uma possível incapacidade de responder adequadamente aos efeitos imediatos das tarifas.
 
-Outros países, como o Brasil, podem optar por retaliar de forma ainda mais inteligente - por exemplo, impondo maiores tarifas a serviços e, quem sabe, cobrando impostos no pagamento de royalties. Isso afetaria diretamente as big-techs.
+Outros países, como o Brasil, podem implementar estratégias de retaliação mais sofisticadas - como a imposição de tarifas mais elevadas sobre serviços e, possivelmente, a tributação sobre pagamentos de royalties. Tais medidas afetariam diretamente as grandes empresas de tecnologia americanas.
 
-O que é praticamente garantido, visto que é o objetivo dessa equipe econômica, é que veremos uma redução nas importações dos EUA. Infelizmente, eles parecem não prever o óbvio: haverá também uma redução nas exportações americanas.
+O que se pode afirmar com considerável certeza é que observaremos uma redução nas importações americanas, objetivo explícito da atual política econômica dos EUA. O que parece não estar sendo adequadamente considerado é a consequente redução nas exportações americanas, um efeito colateral praticamente inevitável.
 
 ## Impacto Imediato
 
-Pense comigo agora. Se você tem uma empresa que exporta para os EUA e sabe que, com as tarifas, seu produto vai ficar 10-69% mais caro para seus clientes, haverá uma queda *imediata* nas suas vendas. Isso vai ser fácil de calcular e projetar. Essa redução de vendas vai diretamente afetar suas decisões de investimentos. Você deve parar contratações e, talvez, dependendo de sua exposição ao mercado estadunidense, pode fechar fábricas.
+Considere o seguinte cenário: uma empresa que exporta para os Estados Unidos, confrontada com tarifas que tornarão seus produtos 10-69% mais caros para os consumidores americanos, enfrentará uma queda imediata em suas vendas. Este impacto é previsível e mensurável. A redução no volume de negócios afetará diretamente as decisões de investimento desta empresa, podendo resultar em congelamento de contratações e, dependendo do grau de exposição ao mercado americano, até mesmo no fechamento de unidades produtivas.
 
-Isso afetará o mercado laboral dos países exportadores, e também impactará seus fornecedores internos e externos. Se o tarifaço continuar, é razoável prever que países devem sentir uma redução de PIB, e muitos podem entrar em recessão.
+Este processo afetará o mercado de trabalho nos países exportadores, com ramificações para toda a cadeia de fornecimento, tanto doméstica quanto internacional. Se o regime tarifário elevado se mantiver, é razoável prever que diversos países experimentarão redução em seu Produto Interno Bruto, com possibilidade de recessão em várias economias.
 
-## Não tem para onde correr
+## A Ilusão do Isolamento
 
-Alguns analistas têm sugerido, talvez para soar mais otimistas e evitar o pânico da população, que isso afetará apenas os EUA, que irão se isolar. Infelizmente, isso é besteira, por várias razões.
+Alguns analistas têm sugerido, possivelmente na tentativa de apresentar uma perspectiva mais otimista, que os efeitos negativos ficarão restritos aos Estados Unidos, que simplesmente se isolariam economicamente. Esta visão, infelizmente, não se sustenta quando analisada criteriosamente.
 
-Primeiro, as vendas para os EUA serão reduzidas imediatamente.  Novos mercados não surgem magicamente. Se você vende alumínio para os EUA, mas vai perder USD$1B em vendas, qual empresa seria maluca de esperar que novos clientes vão magicamente brotar no Vietnã, na União Europeia ou na China? Para algo assim acontecer, a única chance é se houvesse uma liberalização gigantesca entre todos os outros países do mundo para abrir esses mercados.
+Primeiramente, a redução das vendas para o mercado americano será imediata, e novos mercados não surgem por geração espontânea. Uma empresa que exporta alumínio para os EUA e projeta uma perda de US$ 1 bilhão em receitas não pode realisticamente esperar que novos clientes surjam subitamente no Vietnã, na União Europeia ou na China. Para que tal substituição de mercado ocorresse, seria necessária uma liberalização comercial sem precedentes entre os demais países do mundo.
 
-Seria ótimo, mas não é razoável esperar que países comecem novas alianças de liberalização repentina. Não há clima político para isso. A título de exemplo: você imagina o governo Lula ou o Mercosul reduzindo *em regime de urgência* as tarifas de importações da União Europeia para carros, eletrônicos e serviços, já valendo em 2025? Algo assim está sendo negociado, é verdade, mas é uma conversa que já dura 20 anos e é extremamente improvável que qualquer "liberalização urgente" consiga neutralizar os efeitos do tarifaço americano.
+Embora desejável, não é realista esperar que países iniciem abruptamente novas alianças de liberalização comercial. O ambiente político internacional não favorece tal movimento. A título de ilustração: seria plausível imaginar o governo brasileiro ou o Mercosul reduzindo, em caráter emergencial, as tarifas de importação aplicadas a produtos da União Europeia, como automóveis, eletrônicos e serviços, com implementação imediata em 2025? Apesar de negociações neste sentido estarem em curso há aproximadamente duas décadas, é altamente improvável que qualquer "liberalização urgente" consiga neutralizar os efeitos do aumento tarifário americano.
 
-A segunda razão para não podermos contar que o efeito será isolado aos EUA é que há um forte efeito de contágio nos mercados globais. Lembram quando a Rússia espirrou em 2008 e o Brasil pegou gripe? Infelizmente, essa crise deverá ser muito pior. Todos que dependem dos EUA para importações ou exportações vão ser direta e imediatamente impactados. Isso vai afetar decisões de investimentos, e gerar efeitos secundários fortíssimos.
+A segunda razão pela qual os efeitos não ficarão restritos aos EUA é o forte efeito de contágio característico dos mercados globais. Recordemos como a crise russa de 2008 repercutiu negativamente na economia brasileira. A crise atual poderá ser consideravelmente mais severa. Todos os países com dependência comercial dos Estados Unidos, seja para importações ou exportações, serão afetados direta e imediatamente. Isso influenciará decisões de investimento em escala global, gerando efeitos secundários de grande magnitude.
 
 ## A crise de 1930
 
-Após o crash da bolsa americana em 1929, seguida de uma forte crise econômica, o governo dos EUA impôs um tarifaço semelhante, e causou uma crise global sem precedentes. Meu maior receio é que isso se repita.
+Após o colapso da bolsa americana em 1929, seguido por uma profunda crise econômica, o governo dos Estados Unidos implementou um aumento tarifário comparável ao atual, o que resultou em uma crise global de proporções históricas. A possibilidade de repetição deste cenário representa uma preocupação legítima.
 
 ![Imagem gerada por IA: Trump mostrando um gráfico de queda do PIB mundial. Esta é uma imagem fictícia criada por inteligência artificial, não um registro real.](/images/trump-world-decline.png)
 *Imagem criada por IA: Representação fictícia de Trump apresentando dados sobre recessão econômica global*
 
-Alguns analistas têm descartado essa comparação, argumentando que hoje há outros players para contrabalancear o peso dos EUA, como os BRICs e a UE. Será? Revisando os dados, estima-se que em 1929 os EUA eram responsáveis por 15-20% do comércio global. Hoje, são responsáveis por 13%. A diferença não é tão grande assim.
+Alguns analistas têm refutado essa comparação, argumentando que o contexto atual inclui outros atores capazes de contrabalançar a influência americana, como os países do BRICS e a União Europeia. Contudo, uma análise dos dados revela que em 1929, os Estados Unidos representavam entre 15% e 20% do comércio global, enquanto hoje correspondem a aproximadamente 13%. A diferença, portanto, não é substancial.
 
-Há, porém, uma diferença significativa, que traz algum otimismo: em 1930, o tarifaço foi generalizado. Todos os países subiram suas tarifas a todos os outros países. Dessa vez, como já vimos a China fazendo, é provável que os países só devam retaliar aos EUA. A crise de 2025 pode ser, portanto, significativamente menos séria do que a de 1930.
+Existe, no entanto, uma distinção significativa que oferece algum otimismo: em 1930, o aumento tarifário foi generalizado, com todos os países elevando suas tarifas mutuamente. Na situação atual, como já observado nas ações da China, é provável que os países direcionem suas retaliações especificamente aos Estados Unidos. Consequentemente, a crise de 2025 pode ser consideravelmente menos severa que a de 1930.
 
-## Não há certeza
+## Incertezas e Perspectivas
 
-Eu penso que há 50% de chance de uma recessão global muito em breve, mas não há certezas. É possível que Trump cancele o tarifaço. É possível que países façam um esforço inédito de liberalização multilateral (minus USA) e que o comércio global não seja afetado. Há muitas formas nesse momento de evitarmos essa crise. Ainda dá tempo. Espero que dê.
+Estimo em aproximadamente 50% a probabilidade de uma recessão global em um futuro próximo, mas é importante reconhecer as incertezas inerentes a qualquer projeção econômica. Existe a possibilidade de que a administração americana reverta o aumento tarifário. Também é possível que os demais países realizem um esforço sem precedentes de liberalização comercial multilateral (excluindo os EUA), preservando assim a vitalidade do comércio global. Diversas alternativas para evitar a crise ainda estão disponíveis, e o tempo para implementá-las ainda não se esgotou.
 
-Na dúvida, quero guardar minha poupança em um lugar seguro. Aí surge um problema. Se uma parcela do mercado compartilhar dessa minha visão de aversão ao risco, haverá um rebalanceamento significativo de capitais - ainda mais intenso do que vimos ontem. Assim, mesmo que a crise seja evitável, o comportamento de manada de todos nós pode causar a crise.
+Por precaução, considero prudente manter meus investimentos em ativos de menor risco. Esta decisão, entretanto, introduz um dilema: se uma parcela significativa do mercado adotar postura semelhante de aversão ao risco, poderemos observar um rebalanceamento expressivo de capitais, potencialmente mais intenso que o ocorrido recentemente. Assim, mesmo que a crise seja teoricamente evitável, o comportamento coletivo dos agentes econômicos pode acabar por precipitá-la.
 
-É um dilema, portanto, escrever sobre isso, pois estou ajudando a causar o problema. Mas sinto que é minha obrigação alertar meus amigos. Espero que, no final, não seja assim tão ruim como eu prevejo. 
+Compartilhar esta análise representa, portanto, um dilema ético, pois ao alertar para riscos potenciais, posso inadvertidamente contribuir para sua concretização. Não obstante, considero um dever profissional apresentar estas reflexões. Mantenho a esperança de que o cenário efetivo se revele menos severo que o aqui projetado. 
