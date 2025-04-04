@@ -10,9 +10,7 @@ tags:
 - Tarifas
 ---
 
-Formado em relações internacionais pela Universidade de Brasília, tive a oportunidade de estagiar no Ministério da Fazenda, onde realizei análises quantitativas do comércio internacional brasileiro. Minha experiência na economia real inclui posições como engenheiro em empresas de tecnologia de grande porte e fundador de startups em diversos países, incluindo Brasil, Estados Unidos, Suíça e Portugal. 
-
-Ao longo das últimas décadas, venho gerenciando investimentos pessoais em três continentes, além de manter um interesse constante por macroeconomia e política internacional. Embora não possua um doutorado na área, acredito poder contribuir com uma perspectiva baseada tanto em formação acadêmica quanto em experiência prática. O objetivo desta análise não é causar alarmismo desnecessário, mas oferecer uma reflexão fundamentada sobre o cenário econômico que se desenha.
+Ao longo das últimas décadas, venho gerenciando investimentos pessoais em três continentes, além de manter um interesse constante por macroeconomia e política internacional. Acredito poder contribuir com uma perspectiva baseada tanto em formação acadêmica quanto em experiência prática. O objetivo desta análise não é causar alarmismo desnecessário, mas oferecer uma reflexão fundamentada sobre o cenário econômico que se desenha.
 
 Aproximadamente há um mês, realizei um movimento significativo em meu portfólio, transferindo a maior parte dos recursos para investimentos de renda fixa. Anteriormente, mantinha 80% em ações, predominantemente no mercado americano. Os acontecimentos recentes confirmam que foi uma decisão acertada, considerando a queda generalizada nos mercados globais, com destaque para a forte correção nos Estados Unidos.
 
