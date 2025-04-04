@@ -52,6 +52,9 @@ A segunda razão para não podermos contar que o efeito será isolado aos EUA é
 
 Após o crash da bolsa americana em 1929, seguida de uma forte crise econômica, o governo dos EUA impôs um tarifaço semelhante, e causou uma crise global sem precedentes. Meu maior receio é que isso se repita.
 
+![Imagem gerada por IA: Trump mostrando um gráfico de queda do PIB mundial. Esta é uma imagem fictícia criada por inteligência artificial, não um registro real.](/images/trump-world-decline.png)
+*Imagem criada por IA: Representação fictícia de Trump apresentando dados sobre recessão econômica global*
+
 Alguns analistas têm descartado essa comparação, argumentando que hoje há outros players para contrabalancear o peso dos EUA, como os BRICs e a UE. Será? Revisando os dados, estima-se que em 1929 os EUA eram responsáveis por 15-20% do comércio global. Hoje, são responsáveis por 13%. A diferença não é tão grande assim.
 
 Há, porém, uma diferença significativa, que traz algum otimismo: em 1930, o tarifaço foi generalizado. Todos os países subiram suas tarifas a todos os outros países. Dessa vez, como já vimos a China fazendo, é provável que os países só devam retaliar aos EUA. A crise de 2025 pode ser, portanto, significativamente menos séria do que a de 1930.
