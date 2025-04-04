@@ -1,8 +1,8 @@
 ---
 title: 'Impacto das Tarifas dos EUA na Economia Global: Uma Análise Pessoal'
-date: 2023-04-04T12:00:00.000-03:00
+date: 2025-04-04T12:00:00.000-03:00
 draft: false
-url: /2023/04/impacto-tarifas-eua-economia-global.html
+url: /2025/04/impacto-tarifas-eua-economia-global.html
 tags: 
 - Economia
 - Comércio Internacional
@@ -18,7 +18,7 @@ Há mais ou menos um mês eu movi toda a minha poupança e aposentadoria para in
 
 Eu concluí que o tarifaço seria inevitável, e estimei o impacto na economia global, portanto movi meus recursos para ativos mais seguros.
 
-Eu acertei na primeira parte da previsão (o tarifaço aconteceria), mas pessoalmente eu acredito que o impacto na economia global ainda nem começou. As perdas dessa semana podem ser, infelizmente, só o começo.
+Eu acertei na primeira parte da previsão (o tarifaço aconteceria), mas a segunda parte, o impacto na economica global, pessoalmente eu acredito que ainda nem começou. As perdas dessa semana podem ser, infelizmente, só o começo.
 
 ## O Cenário Mais Provável
 
